@@ -1,0 +1,68 @@
+import delimited "D:\Dropbox\Research\MOOC\R_code\data\xt_1year(integrated)\regression\CourseXTdata(directed_network)_forSTATA.csv"
+sort course_id time
+tsset course_id time
+encode course_id, gen(ID)
+tsset ID time
+xtreg value_lead degree, fe
+xtreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length
+ time_avg_helpful_review_score price effort_hours..per_week. level course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hours..per_week. level course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week level course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score effort_hoursper_week level course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week course_length i.time, fe
+
+xtnbreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week course_length i.time, fe
+xtnbreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score effort_hoursper_week course_length i.time, fe
+xtnbreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score effort_hoursper_week course_length i.time, fe
+xtnbreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price i.time, fe
+
+
+
+by ID: ge f_time_count_multipled_rating = time_count_multipled_rating[_n+1]
+xtnbreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price i.time, fe
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price i.time, fe
+xtreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price i.time, fe vce(r)
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score i.time, fe
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score level i.time, fe
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score i.level i.time, fe
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score c.level i.time, fe
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score i.time, fe
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating degree betweenness time_avg_review_length  time_avg_helpful_review_score i.time, fe
+xtnbreg f_time_count_multipled_rating time_count_multipled_rating degree betweenness, fe
+xtnbreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price i.time, fe
+xtnbreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness eigenvector time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week course_length i.time, fe
+xtreg value_lead time_school_ranking degree betweenness eigenvector closeness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price effort_hoursper_week course_length i.time, fe
+xtreg f_time_count_multipled_rating time_count_multipled_rating time_school_ranking degree betweenness time_avg_low_review time_avg_high_review time_avg_moderate_review time_avg_review_length  time_avg_helpful_review_score price i.time, fe vce(r)
+
+
+
+## 17.7.12 stata 
+import delimited "D:\Dropbox\Research\MOOC\R_code\data\xt_1year(integrated)\regression\CourseXTdata(directed_network)_forSTATA.csv"
+sort course_id time
+encode course_id, gen(ID)
+tsset ID time
+by ID: ge f_y = y[_n+1]
+xtnbreg value_lead degree closeness betweenness eigenvector review_platform provider price effort_hoursper_week level course_length price school i.time, fe
+xtnbreg value_lead degree closeness betweenness eigenvector review_platform provider price effort_hoursper_week level course_length school i.time, fe
+xtnbreg value_lead degree closeness betweenness eigenvector review_platform provider price effort_hoursper_week level course_length school i.time, fe
+xtreg value_lead degree closeness betweenness eigenvector i.review_platform i.provider price effort_hoursper_week i.level course_length i.school i.time, fe
+egen en_review_platform = group(review_platform)
+xtreg value_lead degree closeness betweenness eigenvector i.review_platform i.provider price effort_hoursper_week i.level course_length i.school i.time, fe
+xtreg value_lead degree closeness betweenness eigenvector en_review_platform i.provider price effort_hoursper_week i.level course_length i.school i.time, fe
+egen MOOC_provider = group(provider)
+egen course_level = group(level)
+egen institution = group(school)
+xtreg value_lead degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe
+xtreg f_y degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe
+xtreg f_y y degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe
+xtreg f_y degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe vce(r)
+xtbnreg f_y degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe vce(r)
+xtnbreg f_y degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe vce(r)
+xtnbreg f_y degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe
+xtreg f_y degree closeness betweenness eigenvector en_review_platform MOOC_provider price effort_hoursper_week course_level course_length institution i.time, fe vce(r)
+testpam i.year
+testparm i.year
+testparm i.time

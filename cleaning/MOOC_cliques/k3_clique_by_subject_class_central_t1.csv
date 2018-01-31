@@ -1,0 +1,32 @@
+cliq,freq
+"['Data Analysis', 'Economics', 'Environmental Science and Sustainability']",1
+"['Economics', 'Environmental Science and Sustainability', 'Software Development']",1
+"['Economics', 'Environmental Science and Sustainability', 'History']",1
+"['Data Analysis', 'Environmental Science and Sustainability', 'Software Development']",1
+"['Data Analysis', 'Environmental Science and Sustainability', 'History']",1
+"['Environmental Science and Sustainability', 'History', 'Software Development']",1
+"['Computer Science', 'Human Rights', 'Philosophy']",1
+"['Human Rights', 'Philosophy', 'Software Development']",1
+"['Business Strategy', 'Human Rights', 'Philosophy']",1
+"['Governance and Society', 'Human Rights', 'Philosophy']",1
+"['Computer Science', 'Philosophy', 'Software Development']",1
+"['Business Strategy', 'Computer Science', 'Philosophy']",1
+"['Computer Science', 'Governance and Society', 'Philosophy']",1
+"['Business Strategy', 'Philosophy', 'Software Development']",1
+"['Governance and Society', 'Philosophy', 'Software Development']",1
+"['Business Strategy', 'Governance and Society', 'Philosophy']",1
+"['Computer Science', 'Human Rights', 'Software Development']",1
+"['Business Strategy', 'Computer Science', 'Human Rights']",1
+"['Computer Science', 'Governance and Society', 'Human Rights']",1
+"['Business Strategy', 'Human Rights', 'Software Development']",1
+"['Governance and Society', 'Human Rights', 'Software Development']",1
+"['Business Strategy', 'Governance and Society', 'Human Rights']",1
+"['Business Strategy', 'Computer Science', 'Software Development']",1
+"['Computer Science', 'Governance and Society', 'Software Development']",1
+"['Business Strategy', 'Computer Science', 'Governance and Society']",1
+"['Algorithms', 'Computer Security and Networks', 'Economics']",1
+"['Data Analysis', 'Economics', 'Software Development']",1
+"['Data Analysis', 'Economics', 'History']",1
+"['Economics', 'History', 'Software Development']",1
+"['Data Analysis', 'History', 'Software Development']",1
+"['Business Strategy', 'Governance and Society', 'Software Development']",1

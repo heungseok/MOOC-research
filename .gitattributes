@@ -1,0 +1,4 @@
+cleaning/MOOC_cliques/raw/4-cliques_by_area_t3_class_central.csv filter=lfs diff=lfs merge=lfs -text
+cleaning/MOOC_cliques/raw/4-cliques_by_subject_t3_class_central.csv filter=lfs diff=lfs merge=lfs -text
+cleaning/MOOC_data/xtData/xt_6month(integrated)/CourseXTdata(two_mode_network).csv filter=lfs diff=lfs merge=lfs -text
+cleaning/MOOC_data/(Integrated)MOOC_CourseData_20170623.csv filter=lfs diff=lfs merge=lfs -text

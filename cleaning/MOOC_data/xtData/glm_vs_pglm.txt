@@ -1,0 +1,12 @@
+test하려는 데이터와 dep, indep => 온라인 강의의 review데이터를 이용해서 강의 performance 측정 / time fixed effect
+dep. var : review count * review rating (at t+1) (proxy of course performance)
+indep. var: t시점에 만들어진 co-reviewed network(Word of Mouse effect) + t시점에 쌓인 리뷰의 평균 길이, low rating, high rating의 avg.ratio 등
+	    + dummy var(제공 학교, 강의 플랫폼, 강의 가격, 강의 난이도 등)
+
+
+그냥 plm의 결과값은 어느정도 잘나오는데 pglm의 결과값은 이상함.
+(특히 predictor 다넣으면 hessian matrix 가 무한대로.. 모델이 돌아가지않음, negative binomial, poisson모두)
+
+dependent var의 error 분포가 정규분포를 따르지 않을때 glm을 쓰는 것으로 알고있는데 이를 어떻게 판별하는지모르겠음.
+
+

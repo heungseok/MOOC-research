@@ -1,0 +1,2182 @@
+cliq,freq
+"['Computer Science', 'Math and Logic', 'Medicine & Healthcare']",48
+"['Computer Science', 'History', 'Medicine & Healthcare']",47
+"['Computer Science', 'Governance and Society', 'Medicine & Healthcare']",40
+"['Algorithms', 'Computer Science', 'Medicine & Healthcare']",37
+"['Computer Science', 'Medicine & Healthcare', 'Medicine & Healthcare']",35
+"['History', 'Math and Logic', 'Medicine & Healthcare']",34
+"['Biology', 'Computer Science', 'Medicine & Healthcare']",32
+"['Computer Science', 'History', 'Math and Logic']",31
+"['Governance and Society', 'History', 'Medicine & Healthcare']",30
+"['Computer Science', 'Computer Science', 'Medicine & Healthcare']",27
+"['Economics', 'History', 'Medicine & Healthcare']",27
+"['History', 'Medicine & Healthcare', 'Software Development']",24
+"['Algorithms', 'Computer Science', 'Math and Logic']",23
+"['Algorithms', 'Math and Logic', 'Medicine & Healthcare']",23
+"['History', 'Medicine & Healthcare', 'Medicine & Healthcare']",22
+"['Governance and Society', 'Math and Logic', 'Medicine & Healthcare']",22
+"['Economics', 'History', 'Software Development']",22
+"['Computer Science', 'Governance and Society', 'Math and Logic']",21
+"['Math and Logic', 'Medicine & Healthcare', 'Medicine & Healthcare']",20
+"['Algorithms', 'Computer Science', 'History']",20
+"['Governance and Society', 'History', 'Math and Logic']",20
+"['Biology', 'History', 'Medicine & Healthcare']",20
+"['Computer Science', 'Governance and Society', 'History']",20
+"['Governance and Society', 'Medicine & Healthcare', 'Medicine & Healthcare']",20
+"['Algorithms', 'History', 'Medicine & Healthcare']",19
+"['Biology', 'Governance and Society', 'Medicine & Healthcare']",19
+"['Algorithms', 'Biology', 'Computer Science']",19
+"['Economics', 'History', 'Music and Art']",19
+"['Biology', 'Math and Logic', 'Medicine & Healthcare']",18
+"['Computer Science', 'Entrepreneurship', 'Medicine & Healthcare']",18
+"['History', 'Medicine & Healthcare', 'Music and Art']",18
+"['Computer Science', 'Machine Learning', 'Math and Logic']",17
+"['Machine Learning', 'Math and Logic', 'Medicine & Healthcare']",17
+"['Biology', 'Computer Science', 'Governance and Society']",17
+"['Biology', 'Computer Science', 'History']",17
+"['Computer Science', 'Medicine & Healthcare', 'Software Development']",17
+"['Biology & Life Sciences', 'Computer Science', 'Medicine & Healthcare']",17
+"['Computer Science', 'Economics', 'Medicine & Healthcare']",17
+"['Economics', 'Medicine & Healthcare', 'Software Development']",17
+"['Biology', 'Computer Science', 'Math and Logic']",16
+"['Algorithms', 'Biology', 'Medicine & Healthcare']",16
+"['Computer Science', 'Computer Security and Networks', 'Medicine & Healthcare']",16
+"['Algorithms', 'Governance and Society', 'Medicine & Healthcare']",16
+"['Algorithms', 'Computer Science', 'Governance and Society']",16
+"['Computer Science', 'Computer Science', 'Math and Logic']",15
+"['Math and Logic', 'Medicine & Healthcare', 'Physics and Astronomy']",15
+"['Entrepreneurship', 'History', 'Medicine & Healthcare']",15
+"['History', 'Music and Art', 'Software Development']",15
+"['Governance and Society', 'Medicine & Healthcare', 'Software Development']",14
+"['Math and Logic', 'Medicine & Healthcare', 'Software Development']",14
+"['Economics', 'Math and Logic', 'Medicine & Healthcare']",14
+"['Computer Science', 'Medicine & Healthcare', 'Physics and Astronomy']",14
+"['Economics', 'Governance and Society', 'Medicine & Healthcare']",14
+"['Computer Security and Networks', 'History', 'Medicine & Healthcare']",14
+"['History', 'Machine Learning', 'Math and Logic']",13
+"['Math and Logic', 'Math and Logic', 'Medicine & Healthcare']",13
+"['Algorithms', 'Computer Science', 'Computer Science']",13
+"['Algorithms', 'Medicine & Healthcare', 'Medicine & Healthcare']",13
+"['Computer Science', 'Computer Science', 'History']",13
+"['Animals and Veterinary Science', 'History', 'Medicine & Healthcare']",13
+"['Biology', 'Governance and Society', 'History']",13
+"['Economics', 'History', 'Math and Logic']",13
+"['Biology', 'Medicine & Healthcare', 'Medicine & Healthcare']",13
+"['Entrepreneurship', 'Governance and Society', 'Medicine & Healthcare']",13
+"['Economics', 'Governance and Society', 'History']",13
+"['Medicine & Healthcare', 'Music and Art', 'Software Development']",13
+"['Economics', 'Music and Art', 'Software Development']",13
+"['Algorithms', 'History', 'Math and Logic']",12
+"['Computer Science', 'Math and Logic', 'Math and Logic']",12
+"['Computer Science', 'Math and Logic', 'Physics and Astronomy']",12
+"['Biology', 'Governance and Society', 'Math and Logic']",12
+"['History', 'Math and Logic', 'Software Development']",12
+"['Biology', 'Computer Science', 'Computer Science']",12
+"['Medicine & Healthcare', 'Music and Art', 'Physics and Astronomy']",12
+"['Computer Science', 'Computer Science', 'Governance and Society']",12
+"['Governance and Society', 'History', 'Software Development']",12
+"['Economics', 'Medicine & Healthcare', 'Music and Art']",12
+"['Education', 'Math and Logic', 'Medicine & Healthcare']",11
+"['History', 'Medicine & Healthcare', 'Physics and Astronomy']",11
+"['History', 'History', 'Medicine & Healthcare']",11
+"['Biology & Life Sciences', 'History', 'Medicine & Healthcare']",11
+"['Entrepreneurship', 'History', 'Software Development']",11
+"['History', 'Medicine & Healthcare', 'Philosophy']",11
+"['Animals and Veterinary Science', 'Governance and Society', 'Medicine & Healthcare']",11
+"['Biology & Life Sciences', 'Governance and Society', 'Medicine & Healthcare']",11
+"['Environmental Science and Sustainability', 'History', 'Medicine & Healthcare']",11
+"['Economics', 'Entrepreneurship', 'History']",11
+"['Computer Security and Networks', 'Economics', 'History']",11
+"['History', 'Machine Learning', 'Medicine & Healthcare']",10
+"['Biology', 'History', 'Math and Logic']",10
+"['Computer Science', 'Entrepreneurship', 'History']",10
+"['Computer Science', 'Entrepreneurship', 'Governance and Society']",10
+"['Math and Logic', 'Medicine & Healthcare', 'Music and Art']",10
+"['Entrepreneurship', 'Math and Logic', 'Medicine & Healthcare']",10
+"['Computer Security and Networks', 'Math and Logic', 'Medicine & Healthcare']",10
+"['Computer Science', 'Medicine & Healthcare', 'Philosophy']",10
+"['Biology', 'Biology & Life Sciences', 'Medicine & Healthcare']",10
+"['Computer Security and Networks', 'Governance and Society', 'Medicine & Healthcare']",10
+"['Medicine & Healthcare', 'Medicine & Healthcare', 'Software Development']",10
+"['Entrepreneurship', 'Medicine & Healthcare', 'Software Development']",10
+"['Economics', 'Entrepreneurship', 'Medicine & Healthcare']",10
+"['Computer Security and Networks', 'Economics', 'Medicine & Healthcare']",10
+"['Computer Science', 'Governance and Society', 'Software Development']",10
+"['Computer Science', 'History', 'Software Development']",10
+"['Governance and Society', 'History', 'Music and Art']",10
+"['Economics', 'History', 'History']",10
+"['Algorithms', 'Computer Science', 'Software Development']",9
+"['Computer Science', 'History', 'Physics and Astronomy']",9
+"['Business Strategy', 'Governance and Society', 'History']",9
+"['Entrepreneurship', 'Governance and Society', 'History']",9
+"['Computer Security and Networks', 'History', 'Math and Logic']",9
+"['Economics', 'Math and Logic', 'Software Development']",9
+"['Medicine & Healthcare', 'Music and Art', 'Philosophy']",9
+"['Biology', 'Medicine & Healthcare', 'Software Development']",9
+"['Biology', 'Economics', 'Medicine & Healthcare']",9
+"['Algorithms', 'Biology', 'History']",9
+"['Computer Science', 'Math and Logic', 'Software Development']",9
+"['Animals and Veterinary Science', 'Economics', 'History']",9
+"['Economics', 'Medicine & Healthcare', 'Medicine & Healthcare']",9
+"['Biology & Life Sciences', 'Computer Science', 'Governance and Society']",9
+"['Biology & Life Sciences', 'Computer Science', 'History']",9
+"['Computer Science', 'Computer Security and Networks', 'History']",9
+"['Governance and Society', 'Medicine & Healthcare', 'Music and Art']",9
+"['Economics', 'History', 'Machine Learning']",9
+"['Economics', 'Economics', 'History']",9
+"['Economics', 'History', 'Philosophy']",9
+"['Economics', 'Environmental Science and Sustainability', 'History']",9
+"['Business Strategy', 'Economics', 'History']",9
+"['Business', 'Economics', 'History']",9
+"['History', 'Math and Logic', 'Physics and Astronomy']",8
+"['Machine Learning', 'Math and Logic', 'Math and Logic']",8
+"['Math and Logic', 'Medicine & Healthcare', 'Probability and Statistics']",8
+"['Animals and Veterinary Science', 'Governance and Society', 'History']",8
+"['Business Strategy', 'History', 'Medicine & Healthcare']",8
+"['Computer Science', 'Machine Learning', 'Medicine & Healthcare']",8
+"['Business Strategy', 'Medicine & Healthcare', 'Software Development']",8
+"['Math and Logic', 'Music and Art', 'Physics and Astronomy']",8
+"['Animals and Veterinary Science', 'Math and Logic', 'Medicine & Healthcare']",8
+"['Governance and Society', 'Math and Logic', 'Software Development']",8
+"['Economics', 'Governance and Society', 'Math and Logic']",8
+"['Music and Art', 'Philosophy', 'Physics and Astronomy']",8
+"['Medicine & Healthcare', 'Philosophy', 'Physics and Astronomy']",8
+"['Economics', 'Music and Art', 'Philosophy']",8
+"['Governance and Society', 'Medicine & Healthcare', 'Philosophy']",8
+"['Algorithms', 'Biology', 'Math and Logic']",8
+"['Biology', 'Entrepreneurship', 'Medicine & Healthcare']",8
+"['Biology', 'Computer Security and Networks', 'Medicine & Healthcare']",8
+"['Biology', 'Computer Science', 'Software Development']",8
+"['Biology', 'Biology & Life Sciences', 'Computer Science']",8
+"['Biology', 'Computer Science', 'Economics']",8
+"['Biology', 'Computer Science', 'Entrepreneurship']",8
+"['Biology', 'Computer Science', 'Computer Security and Networks']",8
+"['Algorithms', 'Biology', 'Governance and Society']",8
+"['Biology & Life Sciences', 'Math and Logic', 'Medicine & Healthcare']",8
+"['Biology & Life Sciences', 'Computer Science', 'Math and Logic']",8
+"['Computer Science', 'Economics', 'Math and Logic']",8
+"['Computer Science', 'Entrepreneurship', 'Math and Logic']",8
+"['Computer Science', 'Computer Security and Networks', 'Math and Logic']",8
+"['Algorithms', 'Governance and Society', 'Math and Logic']",8
+"['Medicine & Healthcare', 'Physics and Astronomy', 'Physics and Astronomy']",8
+"['Animals and Veterinary Science', 'Medicine & Healthcare', 'Medicine & Healthcare']",8
+"['Algorithms', 'Medicine & Healthcare', 'Software Development']",8
+"['Computer Security and Networks', 'Medicine & Healthcare', 'Software Development']",8
+"['Algorithms', 'Biology & Life Sciences', 'Medicine & Healthcare']",8
+"['Algorithms', 'Economics', 'Medicine & Healthcare']",8
+"['Algorithms', 'Entrepreneurship', 'Medicine & Healthcare']",8
+"['Algorithms', 'Computer Security and Networks', 'Medicine & Healthcare']",8
+"['Entrepreneurship', 'Medicine & Healthcare', 'Medicine & Healthcare']",8
+"['Computer Science', 'Economics', 'Governance and Society']",8
+"['Computer Science', 'Computer Security and Networks', 'Governance and Society']",8
+"['Computer Science', 'Economics', 'History']",8
+"['Algorithms', 'Biology & Life Sciences', 'Computer Science']",8
+"['Algorithms', 'Computer Science', 'Economics']",8
+"['Algorithms', 'Computer Science', 'Entrepreneurship']",8
+"['Algorithms', 'Computer Science', 'Computer Security and Networks']",8
+"['Algorithms', 'Governance and Society', 'History']",8
+"['Economics', 'Governance and Society', 'Software Development']",8
+"['Environmental Science and Sustainability', 'Medicine & Healthcare', 'Music and Art']",8
+"['Entrepreneurship', 'History', 'Music and Art']",8
+"['Computer Security and Networks', 'History', 'Software Development']",8
+"['Economics', 'Entrepreneurship', 'Software Development']",8
+"['History', 'Math and Logic', 'Math and Logic']",7
+"['Education', 'Machine Learning', 'Math and Logic']",7
+"['Machine Learning', 'Math and Logic', 'Probability and Statistics']",7
+"['Machine Learning', 'Math and Logic', 'Physics and Astronomy']",7
+"['Computer Science', 'Education', 'Math and Logic']",7
+"['Computer Science', 'Math and Logic', 'Probability and Statistics']",7
+"['Governance and Society', 'History', 'History']",7
+"['Business Strategy', 'History', 'Music and Art']",7
+"['Economics', 'Math and Logic', 'Music and Art']",7
+"['History', 'Math and Logic', 'Music and Art']",7
+"['Entrepreneurship', 'History', 'Math and Logic']",7
+"['Animals and Veterinary Science', 'Medicine & Healthcare', 'Philosophy']",7
+"['History', 'Music and Art', 'Philosophy']",7
+"['Economics', 'Philosophy', 'Software Development']",7
+"['Medicine & Healthcare', 'Medicine & Healthcare', 'Philosophy']",7
+"['Economics', 'Medicine & Healthcare', 'Philosophy']",7
+"['Biology', 'Biology', 'Computer Science']",7
+"['Machine Learning', 'Medicine & Healthcare', 'Music and Art']",7
+"['Biology & Life Sciences', 'Medicine & Healthcare', 'Medicine & Healthcare']",7
+"['Computer Security and Networks', 'Medicine & Healthcare', 'Medicine & Healthcare']",7
+"['Computer Security and Networks', 'Governance and Society', 'History']",7
+"['History', 'Machine Learning', 'Music and Art']",7
+"['Economics', 'Environmental Science and Sustainability', 'Music and Art']",7
+"['Computer Science', 'Medicine & Healthcare', 'Music and Art']",7
+"['Medicine & Healthcare', 'Medicine & Healthcare', 'Music and Art']",7
+"['Entrepreneurship', 'Music and Art', 'Software Development']",7
+"['Entrepreneurship', 'Medicine & Healthcare', 'Music and Art']",7
+"['History', 'History', 'Software Development']",7
+"['Environmental Science and Sustainability', 'History', 'Music and Art']",7
+"['Business Strategy', 'Economics', 'Software Development']",7
+"['Business Strategy', 'History', 'Software Development']",7
+"['Computer Security and Networks', 'Economics', 'Software Development']",7
+"['Medicine & Healthcare', 'Medicine & Healthcare', 'Physics and Astronomy']",7
+"['Algorithms', 'Machine Learning', 'Math and Logic']",6
+"['Algorithms', 'Math and Logic', 'Physics and Astronomy']",6
+"['Education', 'History', 'Math and Logic']",6
+"['Math and Logic', 'Medicine & Healthcare', 'Philosophy']",6
+"['Computer Science', 'History', 'Machine Learning']",6
+"['History', 'History', 'Math and Logic']",6
+"['Health & Safety', 'History', 'Medicine & Healthcare']",6
+"['Biology & Life Sciences', 'Governance and Society', 'History']",6
+"['History', 'Math', 'Medicine & Healthcare']",6
+"['Computer Science', 'Entrepreneurship', 'Software Development']",6
+"['Entrepreneurship', 'Governance and Society', 'Software Development']",6
+"['Education', 'Machine Learning', 'Medicine & Healthcare']",6
+"['Business Strategy', 'History', 'Physics and Astronomy']",6
+"['Business Strategy', 'Music and Art', 'Software Development']",6
+"['Business Strategy', 'Medicine & Healthcare', 'Music and Art']",6
+"['Health & Safety', 'Medicine & Healthcare', 'Music and Art']",6
+"['Entrepreneurship', 'Governance and Society', 'Math and Logic']",6
+"['Computer Security and Networks', 'Governance and Society', 'Math and Logic']",6
+"['History', 'Philosophy', 'Physics and Astronomy']",6
+"['Business Strategy', 'History', 'Philosophy']",6
+"['Data Analysis', 'Music and Art', 'Physics and Astronomy']",6
+"['History', 'Music and Art', 'Physics and Astronomy']",6
+"['Music and Art', 'Physics and Astronomy', 'Physics and Astronomy']",6
+"['Data Analysis', 'History', 'Physics and Astronomy']",6
+"['Animals and Veterinary Science', 'Economics', 'Medicine & Healthcare']",6
+"['Animals and Veterinary Science', 'Medicine & Healthcare', 'Music and Art']",6
+"['Animals and Veterinary Science', 'Economics', 'Music and Art']",6
+"['Animals and Veterinary Science', 'Economics', 'Software Development']",6
+"['Animals and Veterinary Science', 'History', 'Music and Art']",6
+"['Animals and Veterinary Science', 'History', 'Software Development']",6
+"['Medicine & Healthcare', 'Medicine & Healthcare', 'Medicine & Healthcare']",6
+"['Computer Security and Networks', 'Entrepreneurship', 'Medicine & Healthcare']",6
+"['Computer Science', 'Computer Science', 'Software Development']",6
+"['Biology & Life Sciences', 'Computer Science', 'Computer Science']",6
+"['Computer Science', 'Computer Science', 'Economics']",6
+"['Computer Science', 'Computer Science', 'Entrepreneurship']",6
+"['Computer Science', 'Computer Science', 'Computer Security and Networks']",6
+"['Governance and Society', 'Music and Art', 'Software Development']",6
+"['Computer Science', 'Health & Safety', 'Medicine & Healthcare']",6
+"['Environmental Science and Sustainability', 'Governance and Society', 'Medicine & Healthcare']",6
+"['Economics', 'Machine Learning', 'Medicine & Healthcare']",6
+"['Economics', 'Machine Learning', 'Music and Art']",6
+"['Economics', 'Machine Learning', 'Software Development']",6
+"['History', 'Machine Learning', 'Software Development']",6
+"['Economics', 'Economics', 'Medicine & Healthcare']",6
+"['Economics', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",6
+"['Business Strategy', 'Economics', 'Medicine & Healthcare']",6
+"['Business', 'Economics', 'Medicine & Healthcare']",6
+"['Business', 'History', 'Medicine & Healthcare']",6
+"['Economics', 'Economics', 'Music and Art']",6
+"['Economics', 'Economics', 'Software Development']",6
+"['Economics', 'Entrepreneurship', 'Music and Art']",6
+"['Economics', 'Governance and Society', 'Music and Art']",6
+"['Business Strategy', 'Economics', 'Music and Art']",6
+"['Business', 'Economics', 'Music and Art']",6
+"['Computer Security and Networks', 'Economics', 'Music and Art']",6
+"['Economics', 'Environmental Science and Sustainability', 'Software Development']",6
+"['Business', 'Economics', 'Software Development']",6
+"['History', 'History', 'Music and Art']",6
+"['Business', 'History', 'Music and Art']",6
+"['Computer Security and Networks', 'History', 'Music and Art']",6
+"['History', 'Philosophy', 'Software Development']",6
+"['Environmental Science and Sustainability', 'History', 'Software Development']",6
+"['Business', 'History', 'Software Development']",6
+"['Computer Science', 'Education', 'History']",5
+"['Algorithms', 'Math and Logic', 'Math and Logic']",5
+"['Education', 'Math and Logic', 'Math and Logic']",5
+"['Math and Logic', 'Math and Logic', 'Physics and Astronomy']",5
+"['Math and Logic', 'Philosophy', 'Physics and Astronomy']",5
+"['Education', 'Math and Logic', 'Physics and Astronomy']",5
+"['Algorithms', 'Computer Science', 'Physics and Astronomy']",5
+"['Education', 'History', 'Medicine & Healthcare']",5
+"['Animals and Veterinary Science', 'History', 'Math and Logic']",5
+"['Business Strategy', 'History', 'Math and Logic']",5
+"['Animals and Veterinary Science', 'Business Strategy', 'History']",5
+"['Business Strategy', 'History', 'History']",5
+"['Governance and Society', 'Health & Safety', 'History']",5
+"['Governance and Society', 'History', 'Math']",5
+"['Biology', 'Biology & Life Sciences', 'History']",5
+"['Business Strategy', 'Music and Art', 'Physics and Astronomy']",5
+"['Animals and Veterinary Science', 'Health & Safety', 'Medicine & Healthcare']",5
+"['Environmental Science and Sustainability', 'Health & Safety', 'Medicine & Healthcare']",5
+"['History', 'Math and Logic', 'Philosophy']",5
+"['Biology', 'Computer Security and Networks', 'Math and Logic']",5
+"['Math and Logic', 'Music and Art', 'Software Development']",5
+"['Entrepreneurship', 'Math and Logic', 'Software Development']",5
+"['Economics', 'Entrepreneurship', 'Math and Logic']",5
+"['Computer Security and Networks', 'Economics', 'Math and Logic']",5
+"['Electrical Engineering', 'Philosophy', 'Physics and Astronomy']",5
+"['Animals and Veterinary Science', 'History', 'Philosophy']",5
+"['Environmental Science and Sustainability', 'Music and Art', 'Philosophy']",5
+"['Environmental Science and Sustainability', 'History', 'Philosophy']",5
+"['Music and Art', 'Philosophy', 'Software Development']",5
+"['Medicine & Healthcare', 'Philosophy', 'Software Development']",5
+"['Environmental Science and Sustainability', 'Medicine & Healthcare', 'Philosophy']",5
+"['Biology', 'Governance and Society', 'Software Development']",5
+"['Biology', 'Biology & Life Sciences', 'Governance and Society']",5
+"['Biology', 'History', 'Software Development']",5
+"['Biology', 'Economics', 'History']",5
+"['Algorithms', 'Biology', 'Biology']",5
+"['Algorithms', 'Biology', 'Software Development']",5
+"['Computer Science', 'Education', 'Medicine & Healthcare']",5
+"['Education', 'Medicine & Healthcare', 'Physics and Astronomy']",5
+"['Computer Science', 'Music and Art', 'Physics and Astronomy']",5
+"['Data Analysis', 'Physics and Astronomy', 'Psychology']",5
+"['Computer Science', 'Data Analysis', 'Physics and Astronomy']",5
+"['Data Analysis', 'Medicine & Healthcare', 'Physics and Astronomy']",5
+"['Music and Art', 'Physics and Astronomy', 'Software Development']",5
+"['Governance and Society', 'Medicine & Healthcare', 'Physics and Astronomy']",5
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",5
+"['Biology & Life Sciences', 'Medicine & Healthcare', 'Software Development']",5
+"['Biology & Life Sciences', 'Economics', 'Medicine & Healthcare']",5
+"['Biology & Life Sciences', 'Entrepreneurship', 'Medicine & Healthcare']",5
+"['Computer Science', 'History', 'History']",5
+"['Biology & Life Sciences', 'Computer Science', 'Software Development']",5
+"['Biology & Life Sciences', 'Computer Science', 'Entrepreneurship']",5
+"['Computer Science', 'Computer Security and Networks', 'Entrepreneurship']",5
+"['Economics', 'Entrepreneurship', 'Governance and Society']",5
+"['Computer Security and Networks', 'Economics', 'Governance and Society']",5
+"['Data Analysis', 'Medicine & Healthcare', 'Music and Art']",5
+"['Medicine & Healthcare', 'Music and Art', 'Music and Art']",5
+"['Medicine & Healthcare', 'Music and Art', 'Nanotechnology']",5
+"['History', 'Medicine & Healthcare', 'Nanotechnology']",5
+"['Computer Security and Networks', 'Entrepreneurship', 'History']",5
+"['Environmental Science and Sustainability', 'Medicine & Healthcare', 'Medicine & Healthcare']",5
+"['Computer Science', 'Electrical Engineering', 'Math and Logic']",4
+"['Math and Logic', 'Math and Logic', 'Probability and Statistics']",4
+"['Education', 'Math and Logic', 'Probability and Statistics']",4
+"['Math and Logic', 'Physics and Astronomy', 'Probability and Statistics']",4
+"['Algorithms', 'Computer Science', 'Machine Learning']",4
+"['Algorithms', 'Machine Learning', 'Medicine & Healthcare']",4
+"['Algorithms', 'Medicine & Healthcare', 'Physics and Astronomy']",4
+"['Animals and Veterinary Science', 'History', 'History']",4
+"['Governance and Society', 'Governance and Society', 'History']",4
+"['Data Analysis & Statistics', 'History', 'Physics and Astronomy']",4
+"['Computer Science', 'Education', 'Machine Learning']",4
+"['Computer Science', 'Machine Learning', 'Probability and Statistics']",4
+"['Machine Learning', 'Medicine & Healthcare', 'Probability and Statistics']",4
+"['Computer Science', 'Machine Learning', 'Physics and Astronomy']",4
+"['Machine Learning', 'Medicine & Healthcare', 'Physics and Astronomy']",4
+"['Business Strategy', 'Math and Logic', 'Physics and Astronomy']",4
+"['Business Strategy', 'Math and Logic', 'Music and Art']",4
+"['Business Strategy', 'Math and Logic', 'Medicine & Healthcare']",4
+"['Business Strategy', 'Machine Learning', 'Music and Art']",4
+"['Business & Management', 'Business Strategy', 'Physics and Astronomy']",4
+"['Business Strategy', 'Medicine & Healthcare', 'Physics and Astronomy']",4
+"['Business Strategy', 'Electrical Engineering', 'Physics and Astronomy']",4
+"['Animals and Veterinary Science', 'Business Strategy', 'Medicine & Healthcare']",4
+"['Business Strategy', 'History', 'Machine Learning']",4
+"['Health & Safety', 'Medicine & Healthcare', 'Medicine & Healthcare']",4
+"['Math and Logic', 'Music and Art', 'Philosophy']",4
+"['Economics', 'Math and Logic', 'Philosophy']",4
+"['Data Analysis', 'Math and Logic', 'Physics and Astronomy']",4
+"['Animals and Veterinary Science', 'Governance and Society', 'Math and Logic']",4
+"['Animals and Veterinary Science', 'Economics', 'Math and Logic']",4
+"['Data Analysis', 'History', 'Math and Logic']",4
+"['Environmental Science and Sustainability', 'History', 'Math and Logic']",4
+"['Computer Science', 'Data Analysis', 'Math and Logic']",4
+"['Governance and Society', 'Math and Logic', 'Math and Logic']",4
+"['Computer Security and Networks', 'Math and Logic', 'Software Development']",4
+"['Philosophy', 'Physics and Astronomy', 'Software Development']",4
+"['Business Strategy', 'Philosophy', 'Physics and Astronomy']",4
+"['Animals and Veterinary Science', 'Economics', 'Philosophy']",4
+"['Governance and Society', 'History', 'Philosophy']",4
+"['Governance and Society', 'Philosophy', 'Software Development']",4
+"['Economics', 'Environmental Science and Sustainability', 'Philosophy']",4
+"['Business Strategy', 'Economics', 'Philosophy']",4
+"['Biology', 'Math and Logic', 'Software Development']",4
+"['Biology', 'Biology & Life Sciences', 'Math and Logic']",4
+"['Biology', 'Economics', 'Math and Logic']",4
+"['Biology', 'Entrepreneurship', 'Math and Logic']",4
+"['Biology', 'Biology', 'Medicine & Healthcare']",4
+"['Biology', 'Economics', 'Governance and Society']",4
+"['Biology', 'Entrepreneurship', 'Governance and Society']",4
+"['Biology', 'Computer Security and Networks', 'Governance and Society']",4
+"['Biology', 'Entrepreneurship', 'History']",4
+"['Biology', 'Computer Security and Networks', 'History']",4
+"['Algorithms', 'Biology', 'Biology & Life Sciences']",4
+"['Algorithms', 'Biology', 'Economics']",4
+"['Algorithms', 'Biology', 'Entrepreneurship']",4
+"['Algorithms', 'Biology', 'Computer Security and Networks']",4
+"['Animals and Veterinary Science', 'History', 'Machine Learning']",4
+"['Animals and Veterinary Science', 'Machine Learning', 'Medicine & Healthcare']",4
+"['Environmental Science and Sustainability', 'History', 'Machine Learning']",4
+"['Algorithms', 'Data Analysis', 'Physics and Astronomy']",4
+"['Biology & Life Sciences', 'Governance and Society', 'Math and Logic']",4
+"['Biology & Life Sciences', 'History', 'Math and Logic']",4
+"['Algorithms', 'Math and Logic', 'Software Development']",4
+"['Algorithms', 'Biology & Life Sciences', 'Math and Logic']",4
+"['Algorithms', 'Economics', 'Math and Logic']",4
+"['Algorithms', 'Entrepreneurship', 'Math and Logic']",4
+"['Algorithms', 'Computer Security and Networks', 'Math and Logic']",4
+"['Data Analysis', 'Data Analysis & Statistics', 'Physics and Astronomy']",4
+"['Music and Art', 'Physics and Astronomy', 'Psychology']",4
+"['Communication', 'Data Analysis', 'Physics and Astronomy']",4
+"['History', 'Physics and Astronomy', 'Software Development']",4
+"['Medicine & Healthcare', 'Physics and Astronomy', 'Software Development']",4
+"['Computer Science', 'Electrical Engineering', 'Physics and Astronomy']",4
+"['Electrical Engineering', 'History', 'Physics and Astronomy']",4
+"['Electrical Engineering', 'Physics and Astronomy', 'Physics and Astronomy']",4
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'History']",4
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'History']",4
+"['Animals and Veterinary Science', 'Medicine & Healthcare', 'Software Development']",4
+"['Animals and Veterinary Science', 'Music and Art', 'Software Development']",4
+"['Animals and Veterinary Science', 'Medicine & Healthcare', 'Physics and Astronomy']",4
+"['Governance and Society', 'Governance and Society', 'Medicine & Healthcare']",4
+"['Algorithms', 'Algorithms', 'Medicine & Healthcare']",4
+"['Biology & Life Sciences', 'Computer Security and Networks', 'Medicine & Healthcare']",4
+"['Computer Science', 'Governance and Society', 'Governance and Society']",4
+"['Computer Science', 'Computer Science', 'Computer Science']",4
+"['Computer Science', 'Economics', 'Software Development']",4
+"['Computer Science', 'Computer Security and Networks', 'Software Development']",4
+"['Algorithms', 'Algorithms', 'Computer Science']",4
+"['Biology & Life Sciences', 'Computer Science', 'Economics']",4
+"['Biology & Life Sciences', 'Computer Science', 'Computer Security and Networks']",4
+"['Computer Science', 'Economics', 'Entrepreneurship']",4
+"['Computer Science', 'Computer Security and Networks', 'Economics']",4
+"['Algorithms', 'Governance and Society', 'Software Development']",4
+"['Computer Security and Networks', 'Governance and Society', 'Software Development']",4
+"['Algorithms', 'Biology & Life Sciences', 'Governance and Society']",4
+"['Algorithms', 'Economics', 'Governance and Society']",4
+"['Algorithms', 'Entrepreneurship', 'Governance and Society']",4
+"['Algorithms', 'Computer Security and Networks', 'Governance and Society']",4
+"['Computer Security and Networks', 'Entrepreneurship', 'Governance and Society']",4
+"['Data Analysis', 'Music and Art', 'Psychology']",4
+"['Computer Science', 'Data Analysis', 'Music and Art']",4
+"['Data Analysis', 'History', 'Music and Art']",4
+"['Computer Science', 'History', 'Music and Art']",4
+"['Entrepreneurship', 'Governance and Society', 'Music and Art']",4
+"['History', 'Music and Art', 'Music and Art']",4
+"['Algorithms', 'History', 'Software Development']",4
+"['Computer Science', 'Health & Safety', 'History']",4
+"['Environmental Science and Sustainability', 'Governance and Society', 'History']",4
+"['Algorithms', 'Biology & Life Sciences', 'History']",4
+"['Algorithms', 'Economics', 'History']",4
+"['Algorithms', 'Entrepreneurship', 'History']",4
+"['Algorithms', 'Computer Security and Networks', 'History']",4
+"['Computer Security and Networks', 'History', 'Philosophy']",4
+"['Business Strategy', 'Environmental Science and Sustainability', 'History']",4
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'History']",4
+"['Business Strategy', 'Computer Security and Networks', 'History']",4
+"['Entrepreneurship', 'History', 'History']",4
+"['Computer Security and Networks', 'History', 'History']",4
+"['Bioinformatics', 'Biology', 'Nutrition']",4
+"['Computer Science', 'Data Analysis', 'History']",4
+"['Computer Science', 'Medicine & Healthcare', 'Nanotechnology']",4
+"['Governance and Society', 'Health & Safety', 'Medicine & Healthcare']",4
+"['Governance and Society', 'Medicine & Healthcare', 'Nanotechnology']",4
+"['Computer Science', 'Medicine & Healthcare', 'Probability and Statistics']",4
+"['Health & Safety', 'Medicine & Healthcare', 'Nanotechnology']",4
+"['Environmental Science and Sustainability', 'Medicine & Healthcare', 'Nanotechnology']",4
+"['Governance and Society', 'History', 'Machine Learning']",4
+"['Machine Learning', 'Medicine & Healthcare', 'Software Development']",4
+"['Machine Learning', 'Music and Art', 'Software Development']",4
+"['Business', 'Medicine & Healthcare', 'Music and Art']",4
+"['Computer Security and Networks', 'Medicine & Healthcare', 'Music and Art']",4
+"['Environmental Science and Sustainability', 'Medicine & Healthcare', 'Software Development']",4
+"['Business', 'Medicine & Healthcare', 'Software Development']",4
+"['Computer Security and Networks', 'Economics', 'Entrepreneurship']",4
+"['Environmental Science and Sustainability', 'Music and Art', 'Software Development']",4
+"['Business', 'Music and Art', 'Software Development']",4
+"['Computer Security and Networks', 'Music and Art', 'Software Development']",4
+"['Algorithms', 'Education', 'Math and Logic']",3
+"['Algorithms', 'Math and Logic', 'Probability and Statistics']",3
+"['History', 'Math and Logic', 'Probability and Statistics']",3
+"['Machine Learning', 'Machine Learning', 'Math and Logic']",3
+"['Computer Science', 'Math and Logic', 'Philosophy']",3
+"['Algorithms', 'History', 'Physics and Astronomy']",3
+"['History', 'Machine Learning', 'Physics and Astronomy']",3
+"['Biology', 'History', 'History']",3
+"['Biology', 'History', 'Math']",3
+"['Health & Safety', 'History', 'Math']",3
+"['Machine Learning', 'Medicine & Healthcare', 'Medicine & Healthcare']",3
+"['Business Strategy', 'Governance and Society', 'Music and Art']",3
+"['Governance and Society', 'Machine Learning', 'Math and Logic']",3
+"['Education', 'Health & Safety', 'Medicine & Healthcare']",3
+"['Data Analysis', 'Health & Safety', 'Music and Art']",3
+"['Health & Safety', 'Math and Logic', 'Medicine & Healthcare']",3
+"['Algorithms', 'Biology', 'Leadership and Management']",3
+"['Biology', 'Leadership and Management', 'Nutrition']",3
+"['Biology', 'Computer Science', 'Leadership and Management']",3
+"['Biology', 'Biology', 'Leadership and Management']",3
+"['Bioinformatics', 'Biology', 'Leadership and Management']",3
+"['Math and Logic', 'Philosophy', 'Software Development']",3
+"['Machine Learning', 'Math and Logic', 'Music and Art']",3
+"['Math and Logic', 'Physics and Astronomy', 'Software Development']",3
+"['Business & Management', 'Math and Logic', 'Physics and Astronomy']",3
+"['Math and Logic', 'Physics and Astronomy', 'Physics and Astronomy']",3
+"['Electrical Engineering', 'Math and Logic', 'Physics and Astronomy']",3
+"['Environmental Science and Sustainability', 'Math and Logic', 'Music and Art']",3
+"['Data Analysis', 'Governance and Society', 'Math and Logic']",3
+"['Business Strategy', 'Math and Logic', 'Software Development']",3
+"['Governance and Society', 'Math and Logic', 'Music and Art']",3
+"['Business Strategy', 'Governance and Society', 'Math and Logic']",3
+"['Governance and Society', 'Governance and Society', 'Math and Logic']",3
+"['Entrepreneurship', 'Math and Logic', 'Music and Art']",3
+"['Economics', 'Machine Learning', 'Math and Logic']",3
+"['Environmental Science and Sustainability', 'Math and Logic', 'Medicine & Healthcare']",3
+"['Economics', 'Economics', 'Math and Logic']",3
+"['Economics', 'Environmental Science and Sustainability', 'Math and Logic']",3
+"['Business Strategy', 'Economics', 'Math and Logic']",3
+"['Business', 'Economics', 'Math and Logic']",3
+"['Computer Security and Networks', 'Entrepreneurship', 'Math and Logic']",3
+"['Business', 'History', 'Math and Logic']",3
+"['Electronics', 'Governance and Society', 'Math and Logic']",3
+"['Business & Management', 'Philosophy', 'Physics and Astronomy']",3
+"['Philosophy', 'Physics and Astronomy', 'Physics and Astronomy']",3
+"['Animals and Veterinary Science', 'Governance and Society', 'Philosophy']",3
+"['Animals and Veterinary Science', 'Music and Art', 'Philosophy']",3
+"['Computer Science', 'History', 'Philosophy']",3
+"['Business Strategy', 'Philosophy', 'Software Development']",3
+"['Governance and Society', 'Music and Art', 'Philosophy']",3
+"['Health & Safety', 'Medicine & Healthcare', 'Philosophy']",3
+"['Medicine & Healthcare', 'Nanotechnology', 'Philosophy']",3
+"['Business Strategy', 'Music and Art', 'Philosophy']",3
+"['Business Strategy', 'Medicine & Healthcare', 'Philosophy']",3
+"['Computer Science', 'Philosophy', 'Physics and Astronomy']",3
+"['Biology', 'Governance and Society', 'Governance and Society']",3
+"['Biology', 'Economics', 'Software Development']",3
+"['Animals and Veterinary Science', 'Education', 'Medicine & Healthcare']",3
+"['Computer Science', 'Education', 'Physics and Astronomy']",3
+"['Computer Science', 'Education', 'Electrical Engineering']",3
+"['Environmental Science and Sustainability', 'Machine Learning', 'Music and Art']",3
+"['Environmental Science and Sustainability', 'Machine Learning', 'Medicine & Healthcare']",3
+"['Algorithms', 'Biology', 'Nutrition']",3
+"['Algorithms', 'Bioinformatics', 'Biology']",3
+"['Algorithms', 'Computer Science', 'Data Analysis']",3
+"['Algorithms', 'Data Analysis', 'History']",3
+"['Film', 'Music and Art', 'Physics and Astronomy']",3
+"['Film', 'History', 'Physics and Astronomy']",3
+"['Governance and Society', 'Music and Art', 'Physics and Astronomy']",3
+"['Business & Management', 'Physics and Astronomy', 'Software Development']",3
+"['Business Strategy', 'Physics and Astronomy', 'Software Development']",3
+"['Physics and Astronomy', 'Physics and Astronomy', 'Software Development']",3
+"['Electrical Engineering', 'Physics and Astronomy', 'Software Development']",3
+"['Business & Management', 'Music and Art', 'Physics and Astronomy']",3
+"['Electrical Engineering', 'Music and Art', 'Physics and Astronomy']",3
+"['Computer Science', 'Physics and Astronomy', 'Psychology']",3
+"['Medicine & Healthcare', 'Physics and Astronomy', 'Psychology']",3
+"['History', 'Physics and Astronomy', 'Psychology']",3
+"['Business & Management', 'Computer Science', 'Physics and Astronomy']",3
+"['Computer Science', 'Physics and Astronomy', 'Physics and Astronomy']",3
+"['History', 'Physics and Astronomy', 'Physics and Astronomy']",3
+"['Business & Management', 'Physics and Astronomy', 'Physics and Astronomy']",3
+"['Business & Management', 'Medicine & Healthcare', 'Physics and Astronomy']",3
+"['Business & Management', 'Electrical Engineering', 'Physics and Astronomy']",3
+"['Business Strategy', 'Physics and Astronomy', 'Physics and Astronomy']",3
+"['Electrical Engineering', 'Medicine & Healthcare', 'Physics and Astronomy']",3
+"['Animals and Veterinary Science', 'Business Strategy', 'Governance and Society']",3
+"['Animals and Veterinary Science', 'Economics', 'Machine Learning']",3
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Medicine & Healthcare']",3
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Medicine & Healthcare']",3
+"['Animals and Veterinary Science', 'Economics', 'Economics']",3
+"['Animals and Veterinary Science', 'Economics', 'Entrepreneurship']",3
+"['Animals and Veterinary Science', 'Economics', 'Governance and Society']",3
+"['Animals and Veterinary Science', 'Economics', 'Environmental Science and Sustainability']",3
+"['Animals and Veterinary Science', 'Business Strategy', 'Economics']",3
+"['Animals and Veterinary Science', 'Business', 'Economics']",3
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Economics']",3
+"['Animals and Veterinary Science', 'Entrepreneurship', 'History']",3
+"['Animals and Veterinary Science', 'Business', 'History']",3
+"['Animals and Veterinary Science', 'Computer Science', 'Medicine & Healthcare']",3
+"['Biology & Life Sciences', 'Governance and Society', 'Software Development']",3
+"['Biology & Life Sciences', 'Entrepreneurship', 'Governance and Society']",3
+"['Music and Art', 'Music and Art', 'Physics and Astronomy']",3
+"['Computer Science', 'Music and Art', 'Psychology']",3
+"['Medicine & Healthcare', 'Music and Art', 'Psychology']",3
+"['History', 'Music and Art', 'Psychology']",3
+"['Governance and Society', 'Machine Learning', 'Music and Art']",3
+"['Music and Art', 'Music and Art', 'Software Development']",3
+"['Computer Science', 'Health & Safety', 'Music and Art']",3
+"['Computer Science', 'Governance and Society', 'Music and Art']",3
+"['Computer Science', 'Music and Art', 'Nanotechnology']",3
+"['Entrepreneurship', 'Music and Art', 'Philosophy']",3
+"['Health & Safety', 'History', 'Music and Art']",3
+"['Governance and Society', 'Health & Safety', 'Music and Art']",3
+"['Health & Safety', 'Music and Art', 'Nanotechnology']",3
+"['History', 'Music and Art', 'Nanotechnology']",3
+"['Governance and Society', 'Music and Art', 'Nanotechnology']",3
+"['Computer Science', 'History', 'Math']",3
+"['Biology & Life Sciences', 'History', 'Software Development']",3
+"['Computer Science', 'History', 'Nanotechnology']",3
+"['Governance and Society', 'History', 'Nanotechnology']",3
+"['Biology & Life Sciences', 'Entrepreneurship', 'History']",3
+"['Biology', 'Computer Science', 'Nutrition']",3
+"['Biology', 'Biology', 'Nutrition']",3
+"['Bioinformatics', 'Biology', 'Computer Science']",3
+"['Bioinformatics', 'Biology', 'Biology']",3
+"['Computer Science', 'Data Analysis', 'Psychology']",3
+"['Data Analysis', 'Medicine & Healthcare', 'Psychology']",3
+"['Data Analysis', 'History', 'Psychology']",3
+"['Computer Science', 'Data Analysis', 'Medicine & Healthcare']",3
+"['Computer Science', 'Data Analysis', 'Governance and Society']",3
+"['Data Analysis', 'History', 'Medicine & Healthcare']",3
+"['Business Strategy', 'Entrepreneurship', 'Software Development']",3
+"['Business Strategy', 'Governance and Society', 'Software Development']",3
+"['Computer Security and Networks', 'Entrepreneurship', 'Software Development']",3
+"['Environmental Science and Sustainability', 'Governance and Society', 'Music and Art']",3
+"['Governance and Society', 'Health & Safety', 'Math']",3
+"['Governance and Society', 'Math', 'Medicine & Healthcare']",3
+"['Computer Science', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",3
+"['Medicine & Healthcare', 'Medicine & Healthcare', 'Nanotechnology']",3
+"['Economics', 'Economics', 'Machine Learning']",3
+"['Economics', 'Entrepreneurship', 'Machine Learning']",3
+"['Economics', 'Governance and Society', 'Machine Learning']",3
+"['Economics', 'Machine Learning', 'Philosophy']",3
+"['Economics', 'Environmental Science and Sustainability', 'Machine Learning']",3
+"['Business Strategy', 'Economics', 'Machine Learning']",3
+"['Business', 'Economics', 'Machine Learning']",3
+"['Computer Security and Networks', 'Economics', 'Machine Learning']",3
+"['Entrepreneurship', 'History', 'Machine Learning']",3
+"['History', 'History', 'Machine Learning']",3
+"['History', 'Machine Learning', 'Philosophy']",3
+"['Business', 'History', 'Machine Learning']",3
+"['Computer Security and Networks', 'History', 'Machine Learning']",3
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",3
+"['Business Strategy', 'Governance and Society', 'Medicine & Healthcare']",3
+"['Economics', 'Economics', 'Entrepreneurship']",3
+"['Economics', 'Economics', 'Governance and Society']",3
+"['Economics', 'Economics', 'Philosophy']",3
+"['Economics', 'Economics', 'Environmental Science and Sustainability']",3
+"['Business Strategy', 'Economics', 'Economics']",3
+"['Business', 'Economics', 'Economics']",3
+"['Computer Security and Networks', 'Economics', 'Economics']",3
+"['Economics', 'Music and Art', 'Music and Art']",3
+"['Economics', 'Entrepreneurship', 'Philosophy']",3
+"['Economics', 'Entrepreneurship', 'Environmental Science and Sustainability']",3
+"['Business Strategy', 'Economics', 'Entrepreneurship']",3
+"['Business', 'Economics', 'Entrepreneurship']",3
+"['Economics', 'Governance and Society', 'Philosophy']",3
+"['Economics', 'Environmental Science and Sustainability', 'Governance and Society']",3
+"['Business Strategy', 'Economics', 'Governance and Society']",3
+"['Business', 'Economics', 'Governance and Society']",3
+"['Business', 'Economics', 'Philosophy']",3
+"['Computer Security and Networks', 'Economics', 'Philosophy']",3
+"['Business Strategy', 'Economics', 'Environmental Science and Sustainability']",3
+"['Business', 'Economics', 'Environmental Science and Sustainability']",3
+"['Computer Security and Networks', 'Economics', 'Environmental Science and Sustainability']",3
+"['Business', 'Business Strategy', 'Economics']",3
+"['Business Strategy', 'Computer Security and Networks', 'Economics']",3
+"['Business', 'Computer Security and Networks', 'Economics']",3
+"['Economics', 'Software Development', 'Software Development']",3
+"['Entrepreneurship', 'History', 'Philosophy']",3
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'History']",3
+"['Business Strategy', 'Entrepreneurship', 'History']",3
+"['Business', 'Entrepreneurship', 'History']",3
+"['Health & Safety', 'Math', 'Medicine & Healthcare']",3
+"['Business', 'Governance and Society', 'History']",3
+"['History', 'History', 'Philosophy']",3
+"['Environmental Science and Sustainability', 'History', 'History']",3
+"['Business', 'History', 'History']",3
+"['Business', 'History', 'Philosophy']",3
+"['Business', 'Environmental Science and Sustainability', 'History']",3
+"['Business', 'Business Strategy', 'History']",3
+"['Business', 'Computer Security and Networks', 'History']",3
+"['History', 'Software Development', 'Software Development']",3
+"['Data Analysis & Statistics', 'Medicine & Healthcare', 'Software Development']",2
+"['Electrical Engineering', 'History', 'Math and Logic']",2
+"['Computer Science', 'Electrical Engineering', 'History']",2
+"['Finance', 'Machine Learning', 'Math and Logic']",2
+"['Algorithms', 'History', 'Machine Learning']",2
+"['Algorithms', 'Education', 'Machine Learning']",2
+"['Algorithms', 'Machine Learning', 'Probability and Statistics']",2
+"['Algorithms', 'Machine Learning', 'Physics and Astronomy']",2
+"['Algorithms', 'Computer Science', 'Education']",2
+"['Algorithms', 'Education', 'Medicine & Healthcare']",2
+"['Algorithms', 'Computer Science', 'Probability and Statistics']",2
+"['Algorithms', 'Medicine & Healthcare', 'Probability and Statistics']",2
+"['Computer Science', 'Physics and Astronomy', 'Software Development']",2
+"['Education', 'History', 'Machine Learning']",2
+"['History', 'Machine Learning', 'Probability and Statistics']",2
+"['Computer Science', 'History', 'Probability and Statistics']",2
+"['History', 'Medicine & Healthcare', 'Probability and Statistics']",2
+"['Health & Safety', 'History', 'Math and Logic']",2
+"['History', 'Math', 'Math and Logic']",2
+"['Animals and Veterinary Science', 'Biology', 'History']",2
+"['Animals and Veterinary Science', 'Health & Safety', 'History']",2
+"['Animals and Veterinary Science', 'History', 'Math']",2
+"['Biology', 'Health & Safety', 'History']",2
+"['Biology', 'Business Strategy', 'History']",2
+"['Business Strategy', 'Health & Safety', 'History']",2
+"['Business Strategy', 'History', 'Math']",2
+"['Data Analysis & Statistics', 'Economics', 'History']",2
+"['Education', 'Machine Learning', 'Probability and Statistics']",2
+"['Education', 'Machine Learning', 'Physics and Astronomy']",2
+"['Computer Science', 'Machine Learning', 'Machine Learning']",2
+"['Machine Learning', 'Machine Learning', 'Medicine & Healthcare']",2
+"['Machine Learning', 'Physics and Astronomy', 'Probability and Statistics']",2
+"['Computer Science', 'Computer Science', 'Machine Learning']",2
+"['Business Strategy', 'Machine Learning', 'Math and Logic']",2
+"['Business Strategy', 'Film', 'Math and Logic']",2
+"['Animals and Veterinary Science', 'Business Strategy', 'Math and Logic']",2
+"['Business & Management', 'Business Strategy', 'Math and Logic']",2
+"['Business Strategy', 'Electrical Engineering', 'Math and Logic']",2
+"['Animals and Veterinary Science', 'Business Strategy', 'Machine Learning']",2
+"['Animals and Veterinary Science', 'Business Strategy', 'Film']",2
+"['Business Strategy', 'Film', 'Music and Art']",2
+"['Business Strategy', 'Music and Art', 'Music and Art']",2
+"['Business Strategy', 'Engineering', 'Music and Art']",2
+"['Business & Management', 'Business Strategy', 'Medicine & Healthcare']",2
+"['Business & Management', 'Business Strategy', 'Electrical Engineering']",2
+"['Business Strategy', 'Governance and Society', 'Machine Learning']",2
+"['Business Strategy', 'Electrical Engineering', 'Medicine & Healthcare']",2
+"['Algorithms', 'Anthropology', 'Environmental Science and Sustainability']",2
+"['Anthropology', 'Biology & Life Sciences', 'Environmental Science and Sustainability']",2
+"['Electronics', 'Machine Learning', 'Math and Logic']",2
+"['Data Analysis', 'Machine Learning', 'Math and Logic']",2
+"['Algorithms', 'Biology & Life Sciences', 'Environmental Science and Sustainability']",2
+"['Education', 'Health & Safety', 'Machine Learning']",2
+"['Animals and Veterinary Science', 'Health & Safety', 'Math and Logic']",2
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Health & Safety']",2
+"['Environmental Science and Sustainability', 'Health & Safety', 'Music and Art']",2
+"['Data Analysis', 'Health & Safety', 'Medicine & Healthcare']",2
+"['Data Analysis', 'Environmental Science and Sustainability', 'Health & Safety']",2
+"['Animals and Veterinary Science', 'Math and Logic', 'Philosophy']",2
+"['Governance and Society', 'Math and Logic', 'Philosophy']",2
+"['Environmental Science and Sustainability', 'Math and Logic', 'Philosophy']",2
+"['Business Strategy', 'Math and Logic', 'Philosophy']",2
+"['Animals and Veterinary Science', 'Education', 'Math and Logic']",2
+"['Animals and Veterinary Science', 'Machine Learning', 'Math and Logic']",2
+"['Environmental Science and Sustainability', 'Machine Learning', 'Math and Logic']",2
+"['Algorithms', 'Math and Logic', 'Music and Art']",2
+"['Algorithms', 'Data Analysis', 'Math and Logic']",2
+"['Film', 'Math and Logic', 'Music and Art']",2
+"['Film', 'Math and Logic', 'Physics and Astronomy']",2
+"['Data Analysis & Statistics', 'Math and Logic', 'Physics and Astronomy']",2
+"['Math and Logic', 'Physics and Astronomy', 'Psychology']",2
+"['Communication', 'Math and Logic', 'Physics and Astronomy']",2
+"['Animals and Veterinary Science', 'Math and Logic', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Math and Logic', 'Software Development']",2
+"['Data Analysis', 'Data Analysis & Statistics', 'Math and Logic']",2
+"['Data Analysis & Statistics', 'Math and Logic', 'Medicine & Healthcare']",2
+"['Data Analysis', 'Math and Logic', 'Music and Art']",2
+"['Math and Logic', 'Music and Art', 'Music and Art']",2
+"['Engineering', 'Math and Logic', 'Music and Art']",2
+"['Data Analysis', 'Math and Logic', 'Psychology']",2
+"['Communication', 'Data Analysis', 'Math and Logic']",2
+"['Data Analysis', 'Math and Logic', 'Medicine & Healthcare']",2
+"['Governance and Society', 'Health & Safety', 'Math and Logic']",2
+"['Governance and Society', 'Math', 'Math and Logic']",2
+"['Environmental Science and Sustainability', 'Governance and Society', 'Math and Logic']",2
+"['Economics', 'Math and Logic', 'Math and Logic']",2
+"['Machine Learning', 'Math and Logic', 'Software Development']",2
+"['Computer Security and Networks', 'Machine Learning', 'Math and Logic']",2
+"['Business', 'Math and Logic', 'Medicine & Healthcare']",2
+"['Business', 'Math and Logic', 'Music and Art']",2
+"['Computer Security and Networks', 'Math and Logic', 'Music and Art']",2
+"['Environmental Science and Sustainability', 'Math and Logic', 'Software Development']",2
+"['Data Analysis', 'Electronics', 'Math and Logic']",2
+"['Computer Science', 'Electronics', 'Math and Logic']",2
+"['Business', 'Math and Logic', 'Software Development']",2
+"['Bioinformatics', 'Computer Science', 'Nutrition']",2
+"['Algorithms', 'Philosophy', 'Physics and Astronomy']",2
+"['Film', 'Philosophy', 'Physics and Astronomy']",2
+"['Governance and Society', 'Philosophy', 'Physics and Astronomy']",2
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Philosophy']",2
+"['Animals and Veterinary Science', 'Business Strategy', 'Philosophy']",2
+"['Electrical Engineering', 'Music and Art', 'Philosophy']",2
+"['Electrical Engineering', 'History', 'Philosophy']",2
+"['Environmental Science and Sustainability', 'Governance and Society', 'Philosophy']",2
+"['Business Strategy', 'Governance and Society', 'Philosophy']",2
+"['Computer Science', 'Governance and Society', 'Philosophy']",2
+"['Computer Science', 'Health & Safety', 'Philosophy']",2
+"['Electrical Engineering', 'Philosophy', 'Sociology']",2
+"['Computer Science', 'Education', 'Philosophy']",2
+"['Education', 'Electrical Engineering', 'Philosophy']",2
+"['Business Strategy', 'Environmental Science and Sustainability', 'Philosophy']",2
+"['Computer Science', 'Electrical Engineering', 'Philosophy']",2
+"['Electrical Engineering', 'Medicine & Healthcare', 'Philosophy']",2
+"['Biology', 'Nutrition', 'Software Development']",2
+"['Biology', 'Math and Logic', 'Math and Logic']",2
+"['Biology', 'Biology', 'Math and Logic']",2
+"['Biology', 'Biology', 'Governance and Society']",2
+"['Biology', 'Biology', 'History']",2
+"['Biology', 'Biology & Life Sciences', 'Software Development']",2
+"['Biology', 'Entrepreneurship', 'Software Development']",2
+"['Biology', 'Computer Security and Networks', 'Software Development']",2
+"['Algorithms', 'Algorithms', 'Biology']",2
+"['Biology', 'Biology & Life Sciences', 'Economics']",2
+"['Biology', 'Biology & Life Sciences', 'Entrepreneurship']",2
+"['Biology', 'Biology & Life Sciences', 'Computer Security and Networks']",2
+"['Biology', 'Economics', 'Entrepreneurship']",2
+"['Biology', 'Computer Security and Networks', 'Economics']",2
+"['Biology', 'Computer Security and Networks', 'Entrepreneurship']",2
+"['Computer Science', 'Education', 'Probability and Statistics']",2
+"['Education', 'Medicine & Healthcare', 'Probability and Statistics']",2
+"['Education', 'Medicine & Healthcare', 'Medicine & Healthcare']",2
+"['Business & Management', 'Education', 'Physics and Astronomy']",2
+"['Education', 'Electrical Engineering', 'Learning English']",2
+"['Education', 'Electrical Engineering', 'Physics and Astronomy']",2
+"['Education', 'Electrical Engineering', 'Medicine & Healthcare']",2
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Machine Learning']",2
+"['Machine Learning', 'Music and Art', 'Physics and Astronomy']",2
+"['Algorithms', 'Film', 'Music and Art']",2
+"['Algorithms', 'Data Analysis & Statistics', 'Physics and Astronomy']",2
+"['Algorithms', 'Music and Art', 'Physics and Astronomy']",2
+"['Algorithms', 'Physics and Astronomy', 'Psychology']",2
+"['Algorithms', 'Communication', 'Physics and Astronomy']",2
+"['Algorithms', 'Data Analysis', 'Data Analysis & Statistics']",2
+"['Algorithms', 'Data Analysis', 'Music and Art']",2
+"['Algorithms', 'Data Analysis', 'Psychology']",2
+"['Algorithms', 'Communication', 'Data Analysis']",2
+"['Algorithms', 'Data Analysis', 'Medicine & Healthcare']",2
+"['Biology & Life Sciences', 'Math and Logic', 'Software Development']",2
+"['Algorithms', 'Algorithms', 'Math and Logic']",2
+"['Biology & Life Sciences', 'Economics', 'Math and Logic']",2
+"['Biology & Life Sciences', 'Entrepreneurship', 'Math and Logic']",2
+"['Biology & Life Sciences', 'Computer Security and Networks', 'Math and Logic']",2
+"['Film', 'Medicine & Healthcare', 'Music and Art']",2
+"['Business Strategy', 'Film', 'History']",2
+"['Computer Science', 'Film', 'History']",2
+"['Business Strategy', 'Film', 'Physics and Astronomy']",2
+"['Data Analysis & Statistics', 'Music and Art', 'Physics and Astronomy']",2
+"['Data Analysis & Statistics', 'Physics and Astronomy', 'Software Development']",2
+"['Data Analysis & Statistics', 'Physics and Astronomy', 'Psychology']",2
+"['Computer Science', 'Data Analysis & Statistics', 'Physics and Astronomy']",2
+"['Communication', 'Data Analysis & Statistics', 'Physics and Astronomy']",2
+"['Data Analysis & Statistics', 'Medicine & Healthcare', 'Physics and Astronomy']",2
+"['Communication', 'Music and Art', 'Physics and Astronomy']",2
+"['Data Analysis', 'Data Analysis', 'Physics and Astronomy']",2
+"['Data Analysis', 'Physics and Astronomy', 'Physics and Astronomy']",2
+"['Governance and Society', 'Physics and Astronomy', 'Software Development']",2
+"['Business & Management', 'Data Analysis', 'Physics and Astronomy']",2
+"['Governance and Society', 'History', 'Physics and Astronomy']",2
+"['Communication', 'Physics and Astronomy', 'Psychology']",2
+"['Communication', 'Computer Science', 'Physics and Astronomy']",2
+"['Communication', 'Medicine & Healthcare', 'Physics and Astronomy']",2
+"['Communication', 'History', 'Physics and Astronomy']",2
+"['Animals and Veterinary Science', 'Biology', 'Governance and Society']",2
+"['Animals and Veterinary Science', 'Biology', 'Medicine & Healthcare']",2
+"['Animals and Veterinary Science', 'Governance and Society', 'Health & Safety']",2
+"['Animals and Veterinary Science', 'Governance and Society', 'Math']",2
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Governance and Society']",2
+"['Animals and Veterinary Science', 'Machine Learning', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Machine Learning', 'Software Development']",2
+"['Animals and Veterinary Science', 'Business', 'Medicine & Healthcare']",2
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Governance and Society', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Business Strategy', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Business', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Music and Art', 'Physics and Astronomy']",2
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Music and Art']",2
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Governance and Society']",2
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Software Development']",2
+"['Animals and Veterinary Science', 'Governance and Society', 'Software Development']",2
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Governance and Society']",2
+"['Animals and Veterinary Science', 'Math', 'Medicine & Healthcare']",2
+"['Animals and Veterinary Science', 'Philosophy', 'Software Development']",2
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Software Development']",2
+"['Animals and Veterinary Science', 'Business Strategy', 'Software Development']",2
+"['Animals and Veterinary Science', 'Business', 'Software Development']",2
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Software Development']",2
+"['Data Analysis', 'Data Analysis & Statistics', 'Music and Art']",2
+"['Data Analysis & Statistics', 'History', 'Music and Art']",2
+"['Data Analysis', 'Data Analysis & Statistics', 'Psychology']",2
+"['Computer Science', 'Data Analysis', 'Data Analysis & Statistics']",2
+"['Communication', 'Data Analysis', 'Data Analysis & Statistics']",2
+"['Data Analysis', 'Data Analysis & Statistics', 'Medicine & Healthcare']",2
+"['Data Analysis', 'Data Analysis & Statistics', 'History']",2
+"['Data Analysis & Statistics', 'History', 'Medicine & Healthcare']",2
+"['Biology', 'Data Analysis & Statistics', 'History']",2
+"['Algorithms', 'Governance and Society', 'Governance and Society']",2
+"['Algorithms', 'Algorithms', 'Governance and Society']",2
+"['Biology & Life Sciences', 'Economics', 'Governance and Society']",2
+"['Biology & Life Sciences', 'Computer Security and Networks', 'Governance and Society']",2
+"['Communication', 'Data Analysis', 'Music and Art']",2
+"['Computer Science', 'Music and Art', 'Software Development']",2
+"['Music and Art', 'Psychology', 'Software Development']",2
+"['Health & Safety', 'Music and Art', 'Software Development']",2
+"['Data Analysis', 'Music and Art', 'Software Development']",2
+"['Electronics', 'Music and Art', 'Software Development']",2
+"['Math', 'Music and Art', 'Software Development']",2
+"['Biology & Life Sciences', 'Music and Art', 'Software Development']",2
+"['Music and Art', 'Nanotechnology', 'Software Development']",2
+"['Computer Science', 'Entrepreneurship', 'Music and Art']",2
+"['Computer Science', 'Electronics', 'Music and Art']",2
+"['Computer Science', 'Math', 'Music and Art']",2
+"['Biology & Life Sciences', 'Computer Science', 'Music and Art']",2
+"['Entrepreneurship', 'Music and Art', 'Psychology']",2
+"['Health & Safety', 'Music and Art', 'Psychology']",2
+"['Electronics', 'Music and Art', 'Psychology']",2
+"['Governance and Society', 'Music and Art', 'Psychology']",2
+"['Math', 'Music and Art', 'Psychology']",2
+"['Biology & Life Sciences', 'Music and Art', 'Psychology']",2
+"['Music and Art', 'Nanotechnology', 'Psychology']",2
+"['Entrepreneurship', 'Health & Safety', 'Music and Art']",2
+"['Data Analysis', 'Entrepreneurship', 'Music and Art']",2
+"['Entrepreneurship', 'Music and Art', 'Music and Art']",2
+"['Electronics', 'Entrepreneurship', 'Music and Art']",2
+"['Entrepreneurship', 'Music and Art', 'Physics and Astronomy']",2
+"['Entrepreneurship', 'Math', 'Music and Art']",2
+"['Biology & Life Sciences', 'Entrepreneurship', 'Music and Art']",2
+"['Entrepreneurship', 'Music and Art', 'Nanotechnology']",2
+"['Electronics', 'Health & Safety', 'Music and Art']",2
+"['Health & Safety', 'Music and Art', 'Physics and Astronomy']",2
+"['Health & Safety', 'Math', 'Music and Art']",2
+"['Biology & Life Sciences', 'Health & Safety', 'Music and Art']",2
+"['Electronics', 'History', 'Music and Art']",2
+"['History', 'Math', 'Music and Art']",2
+"['Biology & Life Sciences', 'History', 'Music and Art']",2
+"['Data Analysis', 'Electronics', 'Music and Art']",2
+"['Data Analysis', 'Governance and Society', 'Music and Art']",2
+"['Data Analysis', 'Math', 'Music and Art']",2
+"['Biology & Life Sciences', 'Data Analysis', 'Music and Art']",2
+"['Data Analysis', 'Music and Art', 'Nanotechnology']",2
+"['Electronics', 'Medicine & Healthcare', 'Music and Art']",2
+"['Math', 'Medicine & Healthcare', 'Music and Art']",2
+"['Biology & Life Sciences', 'Medicine & Healthcare', 'Music and Art']",2
+"['Governance and Society', 'Music and Art', 'Music and Art']",2
+"['Electronics', 'Music and Art', 'Physics and Astronomy']",2
+"['Electronics', 'Governance and Society', 'Music and Art']",2
+"['Electronics', 'Math', 'Music and Art']",2
+"['Biology & Life Sciences', 'Electronics', 'Music and Art']",2
+"['Electronics', 'Music and Art', 'Nanotechnology']",2
+"['Math', 'Music and Art', 'Physics and Astronomy']",2
+"['Biology & Life Sciences', 'Music and Art', 'Physics and Astronomy']",2
+"['Music and Art', 'Nanotechnology', 'Physics and Astronomy']",2
+"['Governance and Society', 'Math', 'Music and Art']",2
+"['Biology & Life Sciences', 'Governance and Society', 'Music and Art']",2
+"['Biology & Life Sciences', 'Math', 'Music and Art']",2
+"['Math', 'Music and Art', 'Nanotechnology']",2
+"['Biology & Life Sciences', 'Music and Art', 'Nanotechnology']",2
+"['History', 'Medicine & Healthcare', 'Nutrition']",2
+"['Algorithms', 'History', 'History']",2
+"['Algorithms', 'Algorithms', 'History']",2
+"['Biology & Life Sciences', 'Economics', 'History']",2
+"['Biology & Life Sciences', 'Computer Security and Networks', 'History']",2
+"['Health & Safety', 'History', 'Nanotechnology']",2
+"['Biology', 'Governance and Society', 'Health & Safety']",2
+"['Biology', 'Governance and Society', 'Math']",2
+"['Biology', 'Business Strategy', 'Governance and Society']",2
+"['Computer Science', 'Math', 'Medicine & Healthcare']",2
+"['Computer Science', 'Governance and Society', 'Math']",2
+"['Communication', 'Data Analysis', 'Psychology']",2
+"['Communication', 'Computer Science', 'Data Analysis']",2
+"['Communication', 'Data Analysis', 'Medicine & Healthcare']",2
+"['Communication', 'Data Analysis', 'History']",2
+"['Computer Science', 'Electronics', 'Software Development']",2
+"['History', 'Math', 'Software Development']",2
+"['Math', 'Medicine & Healthcare', 'Software Development']",2
+"['Medicine & Healthcare', 'Nutrition', 'Software Development']",2
+"['Biology & Life Sciences', 'Entrepreneurship', 'Software Development']",2
+"['Electronics', 'Governance and Society', 'Software Development']",2
+"['Algorithms', 'Biology & Life Sciences', 'Software Development']",2
+"['Algorithms', 'Economics', 'Software Development']",2
+"['Algorithms', 'Entrepreneurship', 'Software Development']",2
+"['Algorithms', 'Computer Security and Networks', 'Software Development']",2
+"['Computer Science', 'History', 'Psychology']",2
+"['Computer Science', 'Medicine & Healthcare', 'Psychology']",2
+"['Computer Science', 'Governance and Society', 'Health & Safety']",2
+"['Computer Science', 'Health & Safety', 'Nanotechnology']",2
+"['Computer Science', 'Data Analysis', 'Electronics']",2
+"['Computer Science', 'Electronics', 'Governance and Society']",2
+"['Computer Science', 'Governance and Society', 'Physics and Astronomy']",2
+"['Computer Science', 'Governance and Society', 'Nanotechnology']",2
+"['History', 'Medicine & Healthcare', 'Psychology']",2
+"['Business Strategy', 'Governance and Society', 'Health & Safety']",2
+"['Governance and Society', 'Health & Safety', 'Nanotechnology']",2
+"['Business Strategy', 'Governance and Society', 'Math']",2
+"['Business Strategy', 'Environmental Science and Sustainability', 'Governance and Society']",2
+"['Electrical Engineering', 'Medicine & Healthcare', 'Music and Art']",2
+"['Computer Science', 'Physics and Astronomy', 'Probability and Statistics']",2
+"['Medicine & Healthcare', 'Physics and Astronomy', 'Probability and Statistics']",2
+"['Algorithms', 'Biology & Life Sciences', 'Economics']",2
+"['Algorithms', 'Biology & Life Sciences', 'Entrepreneurship']",2
+"['Algorithms', 'Biology & Life Sciences', 'Computer Security and Networks']",2
+"['Algorithms', 'Economics', 'Entrepreneurship']",2
+"['Algorithms', 'Computer Security and Networks', 'Economics']",2
+"['Algorithms', 'Computer Security and Networks', 'Entrepreneurship']",2
+"['Biology & Life Sciences', 'Computer Security and Networks', 'Economics']",2
+"['Entrepreneurship', 'Machine Learning', 'Medicine & Healthcare']",2
+"['Governance and Society', 'Machine Learning', 'Medicine & Healthcare']",2
+"['Machine Learning', 'Medicine & Healthcare', 'Philosophy']",2
+"['Business Strategy', 'Machine Learning', 'Medicine & Healthcare']",2
+"['Business', 'Machine Learning', 'Medicine & Healthcare']",2
+"['Computer Security and Networks', 'Machine Learning', 'Medicine & Healthcare']",2
+"['Entrepreneurship', 'Machine Learning', 'Music and Art']",2
+"['Machine Learning', 'Music and Art', 'Philosophy']",2
+"['Business', 'Machine Learning', 'Music and Art']",2
+"['Computer Security and Networks', 'Machine Learning', 'Music and Art']",2
+"['Entrepreneurship', 'Machine Learning', 'Software Development']",2
+"['Governance and Society', 'Machine Learning', 'Software Development']",2
+"['Machine Learning', 'Philosophy', 'Software Development']",2
+"['Environmental Science and Sustainability', 'Machine Learning', 'Software Development']",2
+"['Business Strategy', 'Machine Learning', 'Software Development']",2
+"['Business', 'Machine Learning', 'Software Development']",2
+"['Computer Security and Networks', 'Machine Learning', 'Software Development']",2
+"['Entrepreneurship', 'Medicine & Healthcare', 'Philosophy']",2
+"['Business Strategy', 'Entrepreneurship', 'Medicine & Healthcare']",2
+"['Business', 'Entrepreneurship', 'Medicine & Healthcare']",2
+"['Business', 'Governance and Society', 'Medicine & Healthcare']",2
+"['Business', 'Medicine & Healthcare', 'Philosophy']",2
+"['Computer Security and Networks', 'Medicine & Healthcare', 'Philosophy']",2
+"['Business Strategy', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",2
+"['Business', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",2
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",2
+"['Business', 'Business Strategy', 'Medicine & Healthcare']",2
+"['Business Strategy', 'Computer Security and Networks', 'Medicine & Healthcare']",2
+"['Business', 'Computer Security and Networks', 'Medicine & Healthcare']",2
+"['Medicine & Healthcare', 'Software Development', 'Software Development']",2
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Music and Art']",2
+"['Business Strategy', 'Entrepreneurship', 'Music and Art']",2
+"['Business', 'Entrepreneurship', 'Music and Art']",2
+"['Computer Security and Networks', 'Entrepreneurship', 'Music and Art']",2
+"['Business', 'Governance and Society', 'Music and Art']",2
+"['Computer Security and Networks', 'Governance and Society', 'Music and Art']",2
+"['Business', 'Music and Art', 'Philosophy']",2
+"['Computer Security and Networks', 'Music and Art', 'Philosophy']",2
+"['Business Strategy', 'Environmental Science and Sustainability', 'Music and Art']",2
+"['Business', 'Environmental Science and Sustainability', 'Music and Art']",2
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'Music and Art']",2
+"['Business', 'Business Strategy', 'Music and Art']",2
+"['Business Strategy', 'Computer Security and Networks', 'Music and Art']",2
+"['Business', 'Computer Security and Networks', 'Music and Art']",2
+"['Music and Art', 'Software Development', 'Software Development']",2
+"['Business Strategy', 'Entrepreneurship', 'Governance and Society']",2
+"['Entrepreneurship', 'Philosophy', 'Software Development']",2
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Software Development']",2
+"['Business', 'Entrepreneurship', 'Software Development']",2
+"['Data Analysis', 'Governance and Society', 'History']",2
+"['Data Analysis', 'Electronics', 'Governance and Society']",2
+"['Environmental Science and Sustainability', 'Governance and Society', 'Software Development']",2
+"['Business Strategy', 'Computer Security and Networks', 'Governance and Society']",2
+"['Business', 'Governance and Society', 'Software Development']",2
+"['Business Strategy', 'Computer Science', 'History']",2
+"['Environmental Science and Sustainability', 'Philosophy', 'Software Development']",2
+"['Business', 'Philosophy', 'Software Development']",2
+"['Computer Security and Networks', 'Philosophy', 'Software Development']",2
+"['Business Strategy', 'Environmental Science and Sustainability', 'Software Development']",2
+"['Business', 'Environmental Science and Sustainability', 'Software Development']",2
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'Software Development']",2
+"['Business', 'Business Strategy', 'Software Development']",2
+"['Business Strategy', 'Computer Security and Networks', 'Software Development']",2
+"['Computer Science', 'Electrical Engineering', 'Medicine & Healthcare']",2
+"['Business', 'Computer Security and Networks', 'Software Development']",2
+"['Computer Science', 'Education', 'Entrepreneurship']",1
+"['Education', 'Entrepreneurship', 'Software Development']",1
+"['Education', 'Entrepreneurship', 'History']",1
+"['Education', 'Entrepreneurship', 'Governance and Society']",1
+"['Computer Science', 'Education', 'Software Development']",1
+"['Computer Science', 'Education', 'Governance and Society']",1
+"['Education', 'History', 'Software Development']",1
+"['Education', 'Governance and Society', 'Software Development']",1
+"['Education', 'Governance and Society', 'History']",1
+"['Data Analysis & Statistics', 'Governance and Society', 'Software Development']",1
+"['Electrical Engineering', 'Machine Learning', 'Math and Logic']",1
+"['Electrical Engineering', 'History', 'Machine Learning']",1
+"['Computer Science', 'Electrical Engineering', 'Machine Learning']",1
+"['Math and Logic', 'Math and Logic', 'Math and Logic']",1
+"['Economics & Finance', 'Finance', 'Math and Logic']",1
+"['Economics & Finance', 'Machine Learning', 'Math and Logic']",1
+"['Algorithms', 'Education', 'History']",1
+"['Algorithms', 'History', 'Probability and Statistics']",1
+"['Algorithms', 'Machine Learning', 'Machine Learning']",1
+"['Algorithms', 'Machine Learning', 'Mobile and Web Development']",1
+"['Algorithms', 'Education', 'Probability and Statistics']",1
+"['Algorithms', 'Education', 'Physics and Astronomy']",1
+"['Algorithms', 'Physics and Astronomy', 'Probability and Statistics']",1
+"['Algorithms', 'Anthropology', 'Software Development']",1
+"['Algorithms', 'Physics and Astronomy', 'Software Development']",1
+"['Business', 'Physics and Astronomy', 'Software Development']",1
+"['Business', 'Computer Science', 'Software Development']",1
+"['Algorithms', 'Business', 'Software Development']",1
+"['History', 'Machine Learning', 'Machine Learning']",1
+"['Education', 'History', 'Probability and Statistics']",1
+"['Education', 'History', 'Physics and Astronomy']",1
+"['History', 'Physics and Astronomy', 'Probability and Statistics']",1
+"['Biology', 'History', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Education', 'History']",1
+"['Health & Safety', 'History', 'History']",1
+"['History', 'History', 'Math']",1
+"['Economics', 'History', 'Physics and Astronomy']",1
+"['Education', 'Machine Learning', 'Machine Learning']",1
+"['Machine Learning', 'Machine Learning', 'Probability and Statistics']",1
+"['Machine Learning', 'Machine Learning', 'Physics and Astronomy']",1
+"['Business Strategy', 'Math and Logic', 'Mobile and Web Development']",1
+"['Business Strategy', 'Machine Learning', 'Mobile and Web Development']",1
+"['Business Strategy', 'Film', 'Mobile and Web Development']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Mobile and Web Development']",1
+"['Business Strategy', 'Finance', 'Mobile and Web Development']",1
+"['Business Strategy', 'Data Analysis', 'Math and Logic']",1
+"['Business Strategy', 'Engineering', 'Math and Logic']",1
+"['Business Strategy', 'Business Strategy', 'Math and Logic']",1
+"['Business Strategy', 'Finance', 'Math and Logic']",1
+"['Business Strategy', 'Film', 'Machine Learning']",1
+"['Business Strategy', 'Finance', 'Machine Learning']",1
+"['Business Strategy', 'Business Strategy', 'Film']",1
+"['Business Strategy', 'Film', 'Finance']",1
+"['Business Strategy', 'Data Analysis', 'Physics and Astronomy']",1
+"['Business Strategy', 'Business Strategy', 'Physics and Astronomy']",1
+"['Business Strategy', 'Governance and Society', 'Physics and Astronomy']",1
+"['Business Strategy', 'Machine Learning', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Business Strategy']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Finance']",1
+"['Business Strategy', 'Data Analysis', 'Music and Art']",1
+"['Business & Management', 'Business Strategy', 'Data Analysis']",1
+"['Business & Management', 'Business Strategy', 'Engineering']",1
+"['Business Strategy', 'Engineering', 'Physics']",1
+"['Business Strategy', 'Electrical Engineering', 'Engineering']",1
+"['Business & Management', 'Business Strategy', 'Business Strategy']",1
+"['Business & Management', 'Business Strategy', 'Physics']",1
+"['Business Strategy', 'Business Strategy', 'Software Development']",1
+"['Business Strategy', 'Business Strategy', 'Medicine & Healthcare']",1
+"['Business Strategy', 'Business Strategy', 'Electrical Engineering']",1
+"['Business Strategy', 'Electrical Engineering', 'Physics']",1
+"['Economics & Finance', 'Finance', 'Machine Learning']",1
+"['Anthropology', 'Environmental Science and Sustainability', 'Environmental Science and Sustainability']",1
+"['Algorithms', 'Anthropology', 'History']",1
+"['Anthropology', 'Biology & Life Sciences', 'History']",1
+"['Anthropology', 'History', 'Math']",1
+"['Anthropology', 'Environmental Science and Sustainability', 'History']",1
+"['Anthropology', 'History', 'Medicine & Healthcare']",1
+"['Algorithms', 'Anthropology', 'Biology & Life Sciences']",1
+"['Anthropology', 'Math', 'Medicine & Healthcare']",1
+"['Anthropology', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Electronics', 'Machine Learning']",1
+"['Electronics', 'Governance and Society', 'Machine Learning']",1
+"['Computer Science', 'Electronics', 'Machine Learning']",1
+"['Data Analysis', 'Governance and Society', 'Machine Learning']",1
+"['Computer Science', 'Data Analysis', 'Machine Learning']",1
+"['Computer Science', 'Governance and Society', 'Machine Learning']",1
+"['Algorithms', 'Environmental Science and Sustainability', 'Environmental Science and Sustainability']",1
+"['Biology & Life Sciences', 'Environmental Science and Sustainability', 'Environmental Science and Sustainability']",1
+"['Animals and Veterinary Science', 'Education', 'Health & Safety']",1
+"['Education', 'Health & Safety', 'Math and Logic']",1
+"['Film', 'Health & Safety', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Health & Safety', 'Machine Learning']",1
+"['Health & Safety', 'Machine Learning', 'Music and Art']",1
+"['Data Analysis', 'Health & Safety', 'Machine Learning']",1
+"['Health & Safety', 'Machine Learning', 'Medicine & Healthcare']",1
+"['Environmental Science and Sustainability', 'Health & Safety', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Film', 'Health & Safety']",1
+"['Film', 'Health & Safety', 'Music and Art']",1
+"['Data Analysis', 'Film', 'Health & Safety']",1
+"['Education', 'Film', 'Health & Safety']",1
+"['Film', 'Health & Safety', 'Medicine & Healthcare']",1
+"['Environmental Science and Sustainability', 'Film', 'Health & Safety']",1
+"['Education', 'Health & Safety', 'Music and Art']",1
+"['Data Analysis', 'Education', 'Health & Safety']",1
+"['Education', 'Environmental Science and Sustainability', 'Health & Safety']",1
+"['Machine Learning', 'Math and Logic', 'Mobile and Web Development']",1
+"['Film', 'Math and Logic', 'Mobile and Web Development']",1
+"['Animals and Veterinary Science', 'Math and Logic', 'Mobile and Web Development']",1
+"['Finance', 'Math and Logic', 'Mobile and Web Development']",1
+"['Film', 'Machine Learning', 'Mobile and Web Development']",1
+"['Animals and Veterinary Science', 'Machine Learning', 'Mobile and Web Development']",1
+"['Finance', 'Machine Learning', 'Mobile and Web Development']",1
+"['Animals and Veterinary Science', 'Film', 'Mobile and Web Development']",1
+"['Film', 'Finance', 'Mobile and Web Development']",1
+"['Animals and Veterinary Science', 'Finance', 'Mobile and Web Development']",1
+"['Algorithms', 'Leadership and Management', 'Nutrition']",1
+"['Algorithms', 'Computer Science', 'Leadership and Management']",1
+"['Algorithms', 'Bioinformatics', 'Leadership and Management']",1
+"['Computer Science', 'Leadership and Management', 'Nutrition']",1
+"['Bioinformatics', 'Leadership and Management', 'Nutrition']",1
+"['Bioinformatics', 'Computer Science', 'Leadership and Management']",1
+"['Algorithms', 'Math and Logic', 'Philosophy']",1
+"['Film', 'Math and Logic', 'Philosophy']",1
+"['Health & Safety', 'Math and Logic', 'Philosophy']",1
+"['Engineering', 'Math and Logic', 'Philosophy']",1
+"['Business & Management', 'Math and Logic', 'Philosophy']",1
+"['Electrical Engineering', 'Math and Logic', 'Philosophy']",1
+"['Business & Management', 'Education', 'Math and Logic']",1
+"['Education', 'Electrical Engineering', 'Math and Logic']",1
+"['Film', 'Machine Learning', 'Math and Logic']",1
+"['Algorithms', 'Film', 'Math and Logic']",1
+"['Algorithms', 'Data Analysis & Statistics', 'Math and Logic']",1
+"['Algorithms', 'Math and Logic', 'Nutrition']",1
+"['Algorithms', 'Math and Logic', 'Psychology']",1
+"['Algorithms', 'Communication', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Film', 'Math and Logic']",1
+"['Film', 'History', 'Math and Logic']",1
+"['Environmental Science and Sustainability', 'Film', 'Math and Logic']",1
+"['Film', 'Finance', 'Math and Logic']",1
+"['Computer Science', 'Film', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Biology', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Math and Logic', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Math', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Business', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Finance', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Math and Logic', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Math and Logic']",1
+"['Data Analysis & Statistics', 'Math and Logic', 'Music and Art']",1
+"['Data Analysis & Statistics', 'Math and Logic', 'Software Development']",1
+"['Data Analysis & Statistics', 'Economics', 'Math and Logic']",1
+"['Data Analysis & Statistics', 'Math and Logic', 'Psychology']",1
+"['Computer Science', 'Data Analysis & Statistics', 'Math and Logic']",1
+"['Communication', 'Data Analysis & Statistics', 'Math and Logic']",1
+"['Data Analysis & Statistics', 'History', 'Math and Logic']",1
+"['Math and Logic', 'Music and Art', 'Psychology']",1
+"['Computer Science', 'Math and Logic', 'Music and Art']",1
+"['Communication', 'Math and Logic', 'Music and Art']",1
+"['Math and Logic', 'Music and Art', 'Nutrition']",1
+"['History', 'Math and Logic', 'Nutrition']",1
+"['Biology', 'Health & Safety', 'Math and Logic']",1
+"['Biology', 'Math', 'Math and Logic']",1
+"['Biology', 'Business Strategy', 'Math and Logic']",1
+"['Data Analysis', 'Data Analysis', 'Math and Logic']",1
+"['Health & Safety', 'Math and Logic', 'Software Development']",1
+"['Business & Management', 'Math and Logic', 'Software Development']",1
+"['Electronics', 'Math and Logic', 'Software Development']",1
+"['Electrical Engineering', 'Math and Logic', 'Software Development']",1
+"['Computer Science', 'Math and Logic', 'Nutrition']",1
+"['Math and Logic', 'Nutrition', 'Philosophy']",1
+"['Math and Logic', 'Nutrition', 'Physics and Astronomy']",1
+"['Business & Management', 'Data Analysis', 'Math and Logic']",1
+"['Business & Management', 'Math and Logic', 'Probability and Statistics']",1
+"['Electrical Engineering', 'Math and Logic', 'Probability and Statistics']",1
+"['Electronics', 'Math and Logic', 'Math and Logic']",1
+"['Data Analysis', 'Math and Logic', 'Math and Logic']",1
+"['Entrepreneurship', 'Machine Learning', 'Math and Logic']",1
+"['Machine Learning', 'Math and Logic', 'Philosophy']",1
+"['Business', 'Machine Learning', 'Math and Logic']",1
+"['Economics', 'Engineering', 'Math and Logic']",1
+"['Business & Management', 'Math and Logic', 'Music and Art']",1
+"['Electrical Engineering', 'Math and Logic', 'Music and Art']",1
+"['Entrepreneurship', 'Health & Safety', 'Math and Logic']",1
+"['Entrepreneurship', 'Math and Logic', 'Philosophy']",1
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Math and Logic']",1
+"['Business Strategy', 'Entrepreneurship', 'Math and Logic']",1
+"['Electronics', 'Entrepreneurship', 'Math and Logic']",1
+"['Business', 'Entrepreneurship', 'Math and Logic']",1
+"['Health & Safety', 'Math', 'Math and Logic']",1
+"['Environmental Science and Sustainability', 'Health & Safety', 'Math and Logic']",1
+"['Business Strategy', 'Health & Safety', 'Math and Logic']",1
+"['Electronics', 'Health & Safety', 'Math and Logic']",1
+"['Computer Science', 'Math and Logic', 'Psychology']",1
+"['Communication', 'Math and Logic', 'Psychology']",1
+"['Math and Logic', 'Medicine & Healthcare', 'Psychology']",1
+"['History', 'Math and Logic', 'Psychology']",1
+"['Communication', 'Computer Science', 'Math and Logic']",1
+"['Business & Management', 'Computer Science', 'Math and Logic']",1
+"['Communication', 'Math and Logic', 'Medicine & Healthcare']",1
+"['Communication', 'History', 'Math and Logic']",1
+"['Business', 'Governance and Society', 'Math and Logic']",1
+"['Business & Management', 'Engineering', 'Math and Logic']",1
+"['Electrical Engineering', 'Engineering', 'Math and Logic']",1
+"['Business Strategy', 'Math', 'Math and Logic']",1
+"['Math', 'Math and Logic', 'Medicine & Healthcare']",1
+"['Business & Management', 'Math and Logic', 'Medicine & Healthcare']",1
+"['Business & Management', 'Electrical Engineering', 'Math and Logic']",1
+"['Business', 'Math and Logic', 'Philosophy']",1
+"['Computer Security and Networks', 'Math and Logic', 'Philosophy']",1
+"['Business Strategy', 'Environmental Science and Sustainability', 'Math and Logic']",1
+"['Business', 'Environmental Science and Sustainability', 'Math and Logic']",1
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'Math and Logic']",1
+"['Business', 'Business Strategy', 'Math and Logic']",1
+"['Business Strategy', 'Computer Science', 'Math and Logic']",1
+"['Business Strategy', 'Computer Security and Networks', 'Math and Logic']",1
+"['Business', 'Computer Security and Networks', 'Math and Logic']",1
+"['Math and Logic', 'Software Development', 'Software Development']",1
+"['Electrical Engineering', 'Math and Logic', 'Medicine & Healthcare']",1
+"['Computer Science', 'Leadership and Management', 'Math and Logic']",1
+"['Computer Science', 'Computer Science', 'Leadership and Management']",1
+"['Computer Science', 'Law', 'Nutrition']",1
+"['Algorithms', 'Film', 'Philosophy']",1
+"['Algorithms', 'Music and Art', 'Philosophy']",1
+"['Animals and Veterinary Science', 'Film', 'Philosophy']",1
+"['Film', 'Music and Art', 'Philosophy']",1
+"['Education', 'Film', 'Philosophy']",1
+"['Environmental Science and Sustainability', 'Film', 'Philosophy']",1
+"['Business Strategy', 'Film', 'Philosophy']",1
+"['Film', 'History', 'Philosophy']",1
+"['Music and Art', 'Philosophy', 'Social Sciences']",1
+"['Economics', 'Philosophy', 'Social Sciences']",1
+"['Engineering', 'Philosophy', 'Social Sciences']",1
+"['Animals and Veterinary Science', 'Health & Safety', 'Philosophy']",1
+"['Animals and Veterinary Science', 'Computer Science', 'Philosophy']",1
+"['Animals and Veterinary Science', 'Philosophy', 'Physics and Astronomy']",1
+"['Music and Art', 'Philosophy', 'Sociology']",1
+"['Engineering', 'Music and Art', 'Philosophy']",1
+"['Education', 'Music and Art', 'Philosophy']",1
+"['Biology & Life Sciences', 'History', 'Philosophy']",1
+"['Health & Safety', 'History', 'Philosophy']",1
+"['History', 'Learning English', 'Philosophy']",1
+"['Education', 'History', 'Philosophy']",1
+"['History', 'Nanotechnology', 'Philosophy']",1
+"['Health & Safety', 'Philosophy', 'Software Development']",1
+"['Business & Management', 'Philosophy', 'Software Development']",1
+"['Electrical Engineering', 'Philosophy', 'Software Development']",1
+"['Nanotechnology', 'Philosophy', 'Software Development']",1
+"['Health & Safety', 'Music and Art', 'Philosophy']",1
+"['Computer Science', 'Music and Art', 'Philosophy']",1
+"['Music and Art', 'Nanotechnology', 'Philosophy']",1
+"['Engineering', 'Philosophy', 'Software Development']",1
+"['Governance and Society', 'Health & Safety', 'Philosophy']",1
+"['Governance and Society', 'Nanotechnology', 'Philosophy']",1
+"['Biology & Life Sciences', 'Environmental Science and Sustainability', 'Philosophy']",1
+"['Biology & Life Sciences', 'Medicine & Healthcare', 'Philosophy']",1
+"['Biology & Life Sciences', 'Philosophy', 'Social Sciences']",1
+"['Economics', 'Engineering', 'Philosophy']",1
+"['Business & Management', 'Music and Art', 'Philosophy']",1
+"['Environmental Science and Sustainability', 'Health & Safety', 'Philosophy']",1
+"['Business Strategy', 'Health & Safety', 'Philosophy']",1
+"['Health & Safety', 'Nanotechnology', 'Philosophy']",1
+"['Education', 'Philosophy', 'Sociology']",1
+"['Economics', 'Philosophy', 'Sociology']",1
+"['Computer Science', 'Philosophy', 'Sociology']",1
+"['Medicine & Healthcare', 'Philosophy', 'Sociology']",1
+"['Business & Management', 'Engineering', 'Philosophy']",1
+"['Electrical Engineering', 'Engineering', 'Philosophy']",1
+"['Business & Management', 'Business Strategy', 'Philosophy']",1
+"['Business & Management', 'Medicine & Healthcare', 'Philosophy']",1
+"['Business & Management', 'Electrical Engineering', 'Philosophy']",1
+"['Education', 'Environmental Science and Sustainability', 'Philosophy']",1
+"['Economics', 'Education', 'Philosophy']",1
+"['Education', 'Medicine & Healthcare', 'Philosophy']",1
+"['Computer Science', 'Environmental Science and Sustainability', 'Philosophy']",1
+"['Environmental Science and Sustainability', 'Nanotechnology', 'Philosophy']",1
+"['Learning English', 'Philosophy', 'Physics and Astronomy']",1
+"['Education', 'Learning English', 'Philosophy']",1
+"['Computer Science', 'Learning English', 'Philosophy']",1
+"['Electrical Engineering', 'Learning English', 'Philosophy']",1
+"['Business Strategy', 'Electrical Engineering', 'Philosophy']",1
+"['Computer Science', 'Economics', 'Philosophy']",1
+"['Economics', 'Electrical Engineering', 'Philosophy']",1
+"['Computer Science', 'Nanotechnology', 'Philosophy']",1
+"['Biology', 'Biology', 'Software Development']",1
+"['Biology', 'Biology', 'Biology & Life Sciences']",1
+"['Biology', 'Biology', 'Economics']",1
+"['Biology', 'Biology', 'Entrepreneurship']",1
+"['Biology', 'Biology', 'Computer Security and Networks']",1
+"['Animals and Veterinary Science', 'Education', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Education', 'Physics and Astronomy']",1
+"['Biology', 'Education', 'Energy & Earth Sciences']",1
+"['Biology', 'Education', 'Probability and Statistics']",1
+"['Biology', 'Computer Science', 'Education']",1
+"['Biology', 'Business & Management', 'Education']",1
+"['Biology', 'Education', 'Electrical Engineering']",1
+"['Education', 'Energy & Earth Sciences', 'Probability and Statistics']",1
+"['Computer Science', 'Education', 'Energy & Earth Sciences']",1
+"['Business & Management', 'Education', 'Energy & Earth Sciences']",1
+"['Education', 'Electrical Engineering', 'Energy & Earth Sciences']",1
+"['Business & Management', 'Education', 'Probability and Statistics']",1
+"['Education', 'Physics and Astronomy', 'Probability and Statistics']",1
+"['Education', 'Electrical Engineering', 'Probability and Statistics']",1
+"['Business & Management', 'Computer Science', 'Education']",1
+"['Computer Science', 'Computer Science', 'Education']",1
+"['Business & Management', 'Education', 'Medicine & Healthcare']",1
+"['Business & Management', 'Education', 'Electrical Engineering']",1
+"['Education', 'Learning English', 'Physics and Astronomy']",1
+"['Education', 'Physics and Astronomy', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Film', 'Machine Learning']",1
+"['Film', 'Machine Learning', 'Music and Art']",1
+"['Data Analysis', 'Film', 'Machine Learning']",1
+"['Film', 'History', 'Machine Learning']",1
+"['Education', 'Film', 'Machine Learning']",1
+"['Film', 'Machine Learning', 'Medicine & Healthcare']",1
+"['Environmental Science and Sustainability', 'Film', 'Machine Learning']",1
+"['Film', 'Finance', 'Machine Learning']",1
+"['Film', 'Machine Learning', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Finance', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Machine Learning', 'Physics and Astronomy']",1
+"['Computer Science', 'Machine Learning', 'Music and Art']",1
+"['Data Analysis', 'Machine Learning', 'Music and Art']",1
+"['Education', 'Machine Learning', 'Music and Art']",1
+"['Data Analysis', 'Education', 'Machine Learning']",1
+"['Data Analysis', 'Machine Learning', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Environmental Science and Sustainability', 'Machine Learning']",1
+"['Education', 'Environmental Science and Sustainability', 'Machine Learning']",1
+"['Computer Science', 'Environmental Science and Sustainability', 'Machine Learning']",1
+"['Electronics', 'Nutrition', 'Software Development']",1
+"['Algorithms', 'Film', 'Physics and Astronomy']",1
+"['Algorithms', 'Biology', 'Physics and Astronomy']",1
+"['Algorithms', 'Physics and Astronomy', 'Physics and Astronomy']",1
+"['Algorithms', 'Data Analysis & Statistics', 'Music and Art']",1
+"['Algorithms', 'Data Analysis & Statistics', 'Psychology']",1
+"['Algorithms', 'Computer Science', 'Data Analysis & Statistics']",1
+"['Algorithms', 'Communication', 'Data Analysis & Statistics']",1
+"['Algorithms', 'Data Analysis & Statistics', 'Medicine & Healthcare']",1
+"['Algorithms', 'Data Analysis & Statistics', 'History']",1
+"['Algorithms', 'Biology', 'Data Analysis & Statistics']",1
+"['Algorithms', 'Music and Art', 'Music and Art']",1
+"['Algorithms', 'Music and Art', 'Psychology']",1
+"['Algorithms', 'Computer Science', 'Music and Art']",1
+"['Algorithms', 'Communication', 'Music and Art']",1
+"['Algorithms', 'Medicine & Healthcare', 'Music and Art']",1
+"['Algorithms', 'History', 'Music and Art']",1
+"['Algorithms', 'Data Analysis', 'Data Analysis']",1
+"['Algorithms', 'Computer Science', 'Nutrition']",1
+"['Algorithms', 'Bioinformatics', 'Nutrition']",1
+"['Algorithms', 'Nutrition', 'Physics and Astronomy']",1
+"['Algorithms', 'Music and Art', 'Software Development']",1
+"['Algorithms', 'Computer Science', 'Psychology']",1
+"['Algorithms', 'Communication', 'Psychology']",1
+"['Algorithms', 'Medicine & Healthcare', 'Psychology']",1
+"['Algorithms', 'History', 'Psychology']",1
+"['Algorithms', 'Communication', 'Computer Science']",1
+"['Algorithms', 'Bioinformatics', 'Computer Science']",1
+"['Algorithms', 'Communication', 'Medicine & Healthcare']",1
+"['Algorithms', 'Communication', 'History']",1
+"['Biology', 'Math and Logic', 'Physics and Astronomy']",1
+"['Business', 'Computer Science', 'Physics and Astronomy']",1
+"['Algorithms', 'Business', 'Physics and Astronomy']",1
+"['Data Analysis & Statistics', 'Economics', 'Physics and Astronomy']",1
+"['Bioinformatics', 'History', 'Math and Logic']",1
+"['Math and Logic', 'Math and Logic', 'Software Development']",1
+"['Biology & Life Sciences', 'Math and Logic', 'Math and Logic']",1
+"['Entrepreneurship', 'Math and Logic', 'Math and Logic']",1
+"['Computer Security and Networks', 'Math and Logic', 'Math and Logic']",1
+"['Biology', 'Leadership and Management', 'Math and Logic']",1
+"['Leadership and Management', 'Math and Logic', 'Medicine & Healthcare']",1
+"['Leadership and Management', 'Machine Learning', 'Math and Logic']",1
+"['Governance and Society', 'Leadership and Management', 'Math and Logic']",1
+"['Bioinformatics', 'Computer Science', 'Math and Logic']",1
+"['Bioinformatics', 'Machine Learning', 'Math and Logic']",1
+"['Animals and Veterinary Science', 'Film', 'History']",1
+"['Animals and Veterinary Science', 'Film', 'Medicine & Healthcare']",1
+"['Animals and Veterinary Science', 'Environmental Science and Sustainability', 'Film']",1
+"['Animals and Veterinary Science', 'Film', 'Finance']",1
+"['Animals and Veterinary Science', 'Film', 'Physics and Astronomy']",1
+"['Film', 'Music and Art', 'Music and Art']",1
+"['Data Analysis', 'Film', 'Music and Art']",1
+"['Education', 'Film', 'Music and Art']",1
+"['Environmental Science and Sustainability', 'Film', 'Music and Art']",1
+"['Data Analysis', 'Education', 'Film']",1
+"['Data Analysis', 'Film', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Environmental Science and Sustainability', 'Film']",1
+"['Environmental Science and Sustainability', 'Film', 'History']",1
+"['Film', 'History', 'History']",1
+"['Education', 'Film', 'Medicine & Healthcare']",1
+"['Education', 'Environmental Science and Sustainability', 'Film']",1
+"['Environmental Science and Sustainability', 'Film', 'Medicine & Healthcare']",1
+"['Business Strategy', 'Environmental Science and Sustainability', 'Film']",1
+"['Business Strategy', 'Computer Science', 'Film']",1
+"['Film', 'Physics and Astronomy', 'Physics and Astronomy']",1
+"['Computer Science', 'Film', 'Physics and Astronomy']",1
+"['Economics', 'Music and Art', 'Social Sciences']",1
+"['Engineering', 'Music and Art', 'Social Sciences']",1
+"['Economics', 'Engineering', 'Social Sciences']",1
+"['Data Analysis & Statistics', 'Physics and Astronomy', 'Physics and Astronomy']",1
+"['Biology', 'Physics and Astronomy', 'Software Development']",1
+"['Biology', 'Computer Science', 'Physics and Astronomy']",1
+"['Biology', 'Business & Management', 'Physics and Astronomy']",1
+"['Biology', 'Electrical Engineering', 'Physics and Astronomy']",1
+"['Physics and Astronomy', 'Physics and Astronomy', 'Psychology']",1
+"['Communication', 'Physics and Astronomy', 'Physics and Astronomy']",1
+"['Governance and Society', 'Physics and Astronomy', 'Physics and Astronomy']",1
+"['Governance and Society', 'Machine Learning', 'Physics and Astronomy']",1
+"['Physics and Astronomy', 'Physics and Astronomy', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Computer Science', 'History']",1
+"['Animals and Veterinary Science', 'History', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Biology', 'Health & Safety']",1
+"['Animals and Veterinary Science', 'Biology', 'Math']",1
+"['Animals and Veterinary Science', 'Biology', 'Business Strategy']",1
+"['Animals and Veterinary Science', 'Biology', 'Computer Security and Networks']",1
+"['Animals and Veterinary Science', 'Governance and Society', 'Governance and Society']",1
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Governance and Society', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Machine Learning', 'Philosophy']",1
+"['Animals and Veterinary Science', 'Business', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Machine Learning']",1
+"['Animals and Veterinary Science', 'Music and Art', 'Music and Art']",1
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Health & Safety']",1
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Philosophy']",1
+"['Animals and Veterinary Science', 'Entrepreneurship', 'Environmental Science and Sustainability']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Entrepreneurship']",1
+"['Animals and Veterinary Science', 'Business', 'Entrepreneurship']",1
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Entrepreneurship']",1
+"['Animals and Veterinary Science', 'Health & Safety', 'Math']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Health & Safety']",1
+"['Animals and Veterinary Science', 'Computer Science', 'Health & Safety']",1
+"['Animals and Veterinary Science', 'Business', 'Governance and Society']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Math']",1
+"['Animals and Veterinary Science', 'Business', 'Philosophy']",1
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Philosophy']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Environmental Science and Sustainability']",1
+"['Animals and Veterinary Science', 'Business', 'Environmental Science and Sustainability']",1
+"['Animals and Veterinary Science', 'Computer Security and Networks', 'Environmental Science and Sustainability']",1
+"['Animals and Veterinary Science', 'Business', 'Business Strategy']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Business Strategy', 'Computer Security and Networks']",1
+"['Animals and Veterinary Science', 'Computer Science', 'Governance and Society']",1
+"['Animals and Veterinary Science', 'Governance and Society', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Business', 'Computer Security and Networks']",1
+"['Animals and Veterinary Science', 'Computer Science', 'Physics and Astronomy']",1
+"['Animals and Veterinary Science', 'Software Development', 'Software Development']",1
+"['Data Analysis & Statistics', 'Economics', 'Music and Art']",1
+"['Data Analysis & Statistics', 'Music and Art', 'Psychology']",1
+"['Computer Science', 'Data Analysis & Statistics', 'Music and Art']",1
+"['Communication', 'Data Analysis & Statistics', 'Music and Art']",1
+"['Data Analysis & Statistics', 'Medicine & Healthcare', 'Music and Art']",1
+"['Data Analysis', 'Data Analysis', 'Data Analysis & Statistics']",1
+"['Data Analysis & Statistics', 'History', 'Software Development']",1
+"['Data Analysis & Statistics', 'Economics', 'Software Development']",1
+"['Bioinformatics', 'Data Analysis & Statistics', 'Software Development']",1
+"['Biology', 'Data Analysis & Statistics', 'Software Development']",1
+"['Data Analysis & Statistics', 'Ethics', 'Software Development']",1
+"['Chemistry', 'Data Analysis & Statistics', 'Software Development']",1
+"['Data Analysis & Statistics', 'Math', 'Software Development']",1
+"['Data Analysis & Statistics', 'Nutrition', 'Software Development']",1
+"['Bioinformatics', 'Data Analysis & Statistics', 'History']",1
+"['Data Analysis & Statistics', 'Ethics', 'History']",1
+"['Chemistry', 'Data Analysis & Statistics', 'History']",1
+"['Data Analysis & Statistics', 'History', 'Math']",1
+"['Data Analysis & Statistics', 'History', 'Nutrition']",1
+"['Data Analysis & Statistics', 'Economics', 'Medicine & Healthcare']",1
+"['Bioinformatics', 'Data Analysis & Statistics', 'Medicine & Healthcare']",1
+"['Biology', 'Data Analysis & Statistics', 'Medicine & Healthcare']",1
+"['Data Analysis & Statistics', 'Ethics', 'Medicine & Healthcare']",1
+"['Chemistry', 'Data Analysis & Statistics', 'Medicine & Healthcare']",1
+"['Data Analysis & Statistics', 'Math', 'Medicine & Healthcare']",1
+"['Data Analysis & Statistics', 'Medicine & Healthcare', 'Nutrition']",1
+"['Bioinformatics', 'Data Analysis & Statistics', 'Economics']",1
+"['Biology', 'Data Analysis & Statistics', 'Economics']",1
+"['Data Analysis & Statistics', 'Economics', 'Ethics']",1
+"['Chemistry', 'Data Analysis & Statistics', 'Economics']",1
+"['Data Analysis & Statistics', 'Economics', 'Math']",1
+"['Data Analysis & Statistics', 'Economics', 'Nutrition']",1
+"['Computer Science', 'Data Analysis & Statistics', 'Psychology']",1
+"['Communication', 'Data Analysis & Statistics', 'Psychology']",1
+"['Data Analysis & Statistics', 'Medicine & Healthcare', 'Psychology']",1
+"['Data Analysis & Statistics', 'History', 'Psychology']",1
+"['Communication', 'Computer Science', 'Data Analysis & Statistics']",1
+"['Computer Science', 'Data Analysis & Statistics', 'Medicine & Healthcare']",1
+"['Computer Science', 'Data Analysis & Statistics', 'History']",1
+"['Biology', 'Computer Science', 'Data Analysis & Statistics']",1
+"['Bioinformatics', 'Biology', 'Data Analysis & Statistics']",1
+"['Bioinformatics', 'Data Analysis & Statistics', 'Ethics']",1
+"['Bioinformatics', 'Chemistry', 'Data Analysis & Statistics']",1
+"['Bioinformatics', 'Data Analysis & Statistics', 'Math']",1
+"['Bioinformatics', 'Data Analysis & Statistics', 'Nutrition']",1
+"['Communication', 'Data Analysis & Statistics', 'Medicine & Healthcare']",1
+"['Communication', 'Data Analysis & Statistics', 'History']",1
+"['Biology', 'Data Analysis & Statistics', 'Ethics']",1
+"['Biology', 'Chemistry', 'Data Analysis & Statistics']",1
+"['Biology', 'Data Analysis & Statistics', 'Math']",1
+"['Biology', 'Data Analysis & Statistics', 'Nutrition']",1
+"['Chemistry', 'Data Analysis & Statistics', 'Ethics']",1
+"['Data Analysis & Statistics', 'Ethics', 'Math']",1
+"['Data Analysis & Statistics', 'Ethics', 'Nutrition']",1
+"['Chemistry', 'Data Analysis & Statistics', 'Math']",1
+"['Chemistry', 'Data Analysis & Statistics', 'Nutrition']",1
+"['Data Analysis & Statistics', 'Math', 'Nutrition']",1
+"['Clinical Science', 'Computer Security and Networks', 'Medicine & Healthcare']",1
+"['Data Analysis & Statistics', 'Governance and Society', 'Medicine & Healthcare']",1
+"['Governance and Society', 'Governance and Society', 'Software Development']",1
+"['Biology & Life Sciences', 'Governance and Society', 'Governance and Society']",1
+"['Economics', 'Governance and Society', 'Governance and Society']",1
+"['Entrepreneurship', 'Governance and Society', 'Governance and Society']",1
+"['Computer Security and Networks', 'Governance and Society', 'Governance and Society']",1
+"['Data Analysis', 'Data Analysis', 'Music and Art']",1
+"['Engineering', 'Music and Art', 'Music and Art']",1
+"['Economics', 'Engineering', 'Music and Art']",1
+"['Education', 'Music and Art', 'Sociology']",1
+"['Electrical Engineering', 'Music and Art', 'Sociology']",1
+"['Communication', 'Music and Art', 'Psychology']",1
+"['Communication', 'Computer Science', 'Music and Art']",1
+"['Communication', 'Medicine & Healthcare', 'Music and Art']",1
+"['Communication', 'History', 'Music and Art']",1
+"['Data Analysis', 'Education', 'Music and Art']",1
+"['Data Analysis', 'Environmental Science and Sustainability', 'Music and Art']",1
+"['Education', 'Medicine & Healthcare', 'Music and Art']",1
+"['Education', 'Environmental Science and Sustainability', 'Music and Art']",1
+"['Computer Science', 'Music and Art', 'Music and Art']",1
+"['Music and Art', 'Music and Art', 'Psychology']",1
+"['Chemistry', 'Music and Art', 'Philosophy']",1
+"['Chemistry', 'Music and Art', 'Physics and Astronomy']",1
+"['Health & Safety', 'Music and Art', 'Music and Art']",1
+"['Data Analysis', 'Music and Art', 'Music and Art']",1
+"['Electronics', 'Music and Art', 'Music and Art']",1
+"['Math', 'Music and Art', 'Music and Art']",1
+"['Biology & Life Sciences', 'Music and Art', 'Music and Art']",1
+"['Music and Art', 'Music and Art', 'Nanotechnology']",1
+"['History', 'Nutrition', 'Philosophy']",1
+"['History', 'Nutrition', 'Physics and Astronomy']",1
+"['Algorithms', 'Environmental Science and Sustainability', 'History']",1
+"['Biology & Life Sciences', 'Environmental Science and Sustainability', 'History']",1
+"['Biology & Life Sciences', 'History', 'History']",1
+"['Environmental Science and Sustainability', 'Health & Safety', 'History']",1
+"['Bioinformatics', 'Computer Science', 'History']",1
+"['Bioinformatics', 'History', 'Machine Learning']",1
+"['Computer Science', 'Environmental Science and Sustainability', 'History']",1
+"['Environmental Science and Sustainability', 'History', 'Nanotechnology']",1
+"['History', 'Learning English', 'Physics and Astronomy']",1
+"['Education', 'History', 'Learning English']",1
+"['Computer Science', 'History', 'Learning English']",1
+"['Electrical Engineering', 'History', 'Learning English']",1
+"['Business Strategy', 'Electrical Engineering', 'History']",1
+"['Education', 'Electrical Engineering', 'History']",1
+"['Biology', 'Computer Science', 'Math']",1
+"['Biology', 'Computer Science', 'Health & Safety']",1
+"['Biology', 'Leadership and Management', 'Medicine & Healthcare']",1
+"['Biology', 'Governance and Society', 'Leadership and Management']",1
+"['Biology', 'Health & Safety', 'Math']",1
+"['Biology', 'Business Strategy', 'Health & Safety']",1
+"['Biology', 'Business Strategy', 'Math']",1
+"['Biology', 'Business Strategy', 'Medicine & Healthcare']",1
+"['Biology', 'Business Strategy', 'Computer Security and Networks']",1
+"['Computer Science', 'Law', 'Math']",1
+"['Computer Science', 'Law', 'Medicine & Healthcare']",1
+"['Computer Science', 'History', 'Law']",1
+"['Algorithms', 'Business', 'Computer Science']",1
+"['Biology', 'Energy & Earth Sciences', 'Probability and Statistics']",1
+"['Biology', 'Computer Science', 'Energy & Earth Sciences']",1
+"['Biology', 'Business & Management', 'Energy & Earth Sciences']",1
+"['Biology', 'Electrical Engineering', 'Energy & Earth Sciences']",1
+"['Biology', 'Computer Science', 'Probability and Statistics']",1
+"['Biology', 'Business & Management', 'Probability and Statistics']",1
+"['Biology', 'Electrical Engineering', 'Probability and Statistics']",1
+"['Biology', 'Business & Management', 'Computer Science']",1
+"['Biology', 'Computer Science', 'Electrical Engineering']",1
+"['Biology', 'Business & Management', 'Electrical Engineering']",1
+"['Biology', 'Biology', 'Biology']",1
+"['Data Analysis', 'Electrical Engineering', 'Law']",1
+"['Data Analysis', 'Governance and Society', 'Law']",1
+"['Data Analysis', 'Data Analysis', 'Psychology']",1
+"['Computer Science', 'Data Analysis', 'Data Analysis']",1
+"['Communication', 'Data Analysis', 'Data Analysis']",1
+"['Data Analysis', 'Data Analysis', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Data Analysis', 'History']",1
+"['Data Analysis', 'Electrical Engineering', 'Governance and Society']",1
+"['Computer Science', 'Psychology', 'Software Development']",1
+"['Computer Science', 'Health & Safety', 'Software Development']",1
+"['Computer Science', 'Data Analysis', 'Software Development']",1
+"['Computer Science', 'Math', 'Software Development']",1
+"['Computer Science', 'Nanotechnology', 'Software Development']",1
+"['Entrepreneurship', 'Psychology', 'Software Development']",1
+"['Health & Safety', 'Psychology', 'Software Development']",1
+"['History', 'Psychology', 'Software Development']",1
+"['Data Analysis', 'Psychology', 'Software Development']",1
+"['Medicine & Healthcare', 'Psychology', 'Software Development']",1
+"['Electronics', 'Psychology', 'Software Development']",1
+"['Physics and Astronomy', 'Psychology', 'Software Development']",1
+"['Governance and Society', 'Psychology', 'Software Development']",1
+"['Math', 'Psychology', 'Software Development']",1
+"['Biology & Life Sciences', 'Psychology', 'Software Development']",1
+"['Nanotechnology', 'Psychology', 'Software Development']",1
+"['Bioinformatics', 'History', 'Software Development']",1
+"['Ethics', 'History', 'Software Development']",1
+"['Chemistry', 'History', 'Software Development']",1
+"['History', 'Nutrition', 'Software Development']",1
+"['Bioinformatics', 'Medicine & Healthcare', 'Software Development']",1
+"['Ethics', 'Medicine & Healthcare', 'Software Development']",1
+"['Chemistry', 'Medicine & Healthcare', 'Software Development']",1
+"['Bioinformatics', 'Economics', 'Software Development']",1
+"['Economics', 'Ethics', 'Software Development']",1
+"['Chemistry', 'Economics', 'Software Development']",1
+"['Economics', 'Math', 'Software Development']",1
+"['Economics', 'Nutrition', 'Software Development']",1
+"['Business & Management', 'Music and Art', 'Software Development']",1
+"['Electrical Engineering', 'Music and Art', 'Software Development']",1
+"['Entrepreneurship', 'Health & Safety', 'Software Development']",1
+"['Data Analysis', 'Entrepreneurship', 'Software Development']",1
+"['Entrepreneurship', 'Law', 'Software Development']",1
+"['Electronics', 'Entrepreneurship', 'Software Development']",1
+"['Entrepreneurship', 'Physics and Astronomy', 'Software Development']",1
+"['Entrepreneurship', 'Math', 'Software Development']",1
+"['Entrepreneurship', 'Nanotechnology', 'Software Development']",1
+"['Health & Safety', 'History', 'Software Development']",1
+"['Data Analysis', 'Health & Safety', 'Software Development']",1
+"['Health & Safety', 'Medicine & Healthcare', 'Software Development']",1
+"['Business Strategy', 'Health & Safety', 'Software Development']",1
+"['Electronics', 'Health & Safety', 'Software Development']",1
+"['Health & Safety', 'Physics and Astronomy', 'Software Development']",1
+"['Ethics', 'Health & Safety', 'Software Development']",1
+"['Governance and Society', 'Health & Safety', 'Software Development']",1
+"['Health & Safety', 'Math', 'Software Development']",1
+"['Biology & Life Sciences', 'Health & Safety', 'Software Development']",1
+"['Health & Safety', 'Nanotechnology', 'Software Development']",1
+"['Bioinformatics', 'Biology', 'Software Development']",1
+"['Bioinformatics', 'Ethics', 'Software Development']",1
+"['Bioinformatics', 'Chemistry', 'Software Development']",1
+"['Bioinformatics', 'Math', 'Software Development']",1
+"['Bioinformatics', 'Nutrition', 'Software Development']",1
+"['Data Analysis', 'History', 'Software Development']",1
+"['Electronics', 'History', 'Software Development']",1
+"['History', 'Nanotechnology', 'Software Development']",1
+"['Data Analysis', 'Medicine & Healthcare', 'Software Development']",1
+"['Data Analysis', 'Electronics', 'Software Development']",1
+"['Data Analysis', 'Physics and Astronomy', 'Software Development']",1
+"['Data Analysis', 'Governance and Society', 'Software Development']",1
+"['Data Analysis', 'Math', 'Software Development']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Software Development']",1
+"['Data Analysis', 'Nanotechnology', 'Software Development']",1
+"['Business & Management', 'Business Strategy', 'Software Development']",1
+"['Business & Management', 'Medicine & Healthcare', 'Software Development']",1
+"['Business & Management', 'Electrical Engineering', 'Software Development']",1
+"['History', 'Law', 'Software Development']",1
+"['Electronics', 'Medicine & Healthcare', 'Software Development']",1
+"['Medicine & Healthcare', 'Nanotechnology', 'Software Development']",1
+"['Business Strategy', 'Electrical Engineering', 'Software Development']",1
+"['Electronics', 'Physics and Astronomy', 'Software Development']",1
+"['Electronics', 'Math', 'Software Development']",1
+"['Biology & Life Sciences', 'Electronics', 'Software Development']",1
+"['Electronics', 'Nanotechnology', 'Software Development']",1
+"['Biology', 'Ethics', 'Software Development']",1
+"['Biology', 'Chemistry', 'Software Development']",1
+"['Biology', 'Math', 'Software Development']",1
+"['Math', 'Physics and Astronomy', 'Software Development']",1
+"['Biology & Life Sciences', 'Physics and Astronomy', 'Software Development']",1
+"['Nanotechnology', 'Physics and Astronomy', 'Software Development']",1
+"['Chemistry', 'Ethics', 'Software Development']",1
+"['Ethics', 'Math', 'Software Development']",1
+"['Ethics', 'Nutrition', 'Software Development']",1
+"['Governance and Society', 'Math', 'Software Development']",1
+"['Governance and Society', 'Nanotechnology', 'Software Development']",1
+"['Biology & Life Sciences', 'Math', 'Software Development']",1
+"['Math', 'Nanotechnology', 'Software Development']",1
+"['Chemistry', 'Math', 'Software Development']",1
+"['Chemistry', 'Nutrition', 'Software Development']",1
+"['Math', 'Nutrition', 'Software Development']",1
+"['Electrical Engineering', 'Medicine & Healthcare', 'Software Development']",1
+"['Biology & Life Sciences', 'Nanotechnology', 'Software Development']",1
+"['Algorithms', 'Algorithms', 'Software Development']",1
+"['Biology & Life Sciences', 'Economics', 'Software Development']",1
+"['Biology & Life Sciences', 'Computer Security and Networks', 'Software Development']",1
+"['Computer Science', 'Nutrition', 'Physics and Astronomy']",1
+"['Nutrition', 'Philosophy', 'Physics and Astronomy']",1
+"['Computer Science', 'Entrepreneurship', 'Psychology']",1
+"['Computer Science', 'Health & Safety', 'Psychology']",1
+"['Computer Science', 'Electronics', 'Psychology']",1
+"['Computer Science', 'Governance and Society', 'Psychology']",1
+"['Computer Science', 'Math', 'Psychology']",1
+"['Biology & Life Sciences', 'Computer Science', 'Psychology']",1
+"['Computer Science', 'Nanotechnology', 'Psychology']",1
+"['Computer Science', 'Entrepreneurship', 'Health & Safety']",1
+"['Computer Science', 'Data Analysis', 'Entrepreneurship']",1
+"['Computer Science', 'Electronics', 'Entrepreneurship']",1
+"['Computer Science', 'Entrepreneurship', 'Physics and Astronomy']",1
+"['Computer Science', 'Entrepreneurship', 'Math']",1
+"['Computer Science', 'Entrepreneurship', 'Nanotechnology']",1
+"['Computer Science', 'Data Analysis', 'Health & Safety']",1
+"['Computer Science', 'Electronics', 'Health & Safety']",1
+"['Computer Science', 'Health & Safety', 'Physics and Astronomy']",1
+"['Computer Science', 'Health & Safety', 'Math']",1
+"['Biology & Life Sciences', 'Computer Science', 'Health & Safety']",1
+"['Computer Science', 'Electronics', 'History']",1
+"['Computer Science', 'Data Analysis', 'Math']",1
+"['Biology & Life Sciences', 'Computer Science', 'Data Analysis']",1
+"['Computer Science', 'Data Analysis', 'Nanotechnology']",1
+"['Computer Science', 'Electronics', 'Medicine & Healthcare']",1
+"['Computer Science', 'Electronics', 'Physics and Astronomy']",1
+"['Computer Science', 'Electronics', 'Math']",1
+"['Biology & Life Sciences', 'Computer Science', 'Electronics']",1
+"['Computer Science', 'Electronics', 'Nanotechnology']",1
+"['Computer Science', 'Math', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Computer Science', 'Physics and Astronomy']",1
+"['Computer Science', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Computer Science', 'Math']",1
+"['Computer Science', 'Math', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Computer Science', 'Nanotechnology']",1
+"['Computer Science', 'Environmental Science and Sustainability', 'Music and Art']",1
+"['Environmental Science and Sustainability', 'Music and Art', 'Nanotechnology']",1
+"['Chemistry', 'Clinical Science', 'Computer Science']",1
+"['Electrical Engineering', 'Governance and Society', 'Law']",1
+"['Entrepreneurship', 'Health & Safety', 'Psychology']",1
+"['Entrepreneurship', 'History', 'Psychology']",1
+"['Data Analysis', 'Entrepreneurship', 'Psychology']",1
+"['Entrepreneurship', 'Medicine & Healthcare', 'Psychology']",1
+"['Electronics', 'Entrepreneurship', 'Psychology']",1
+"['Entrepreneurship', 'Physics and Astronomy', 'Psychology']",1
+"['Entrepreneurship', 'Governance and Society', 'Psychology']",1
+"['Entrepreneurship', 'Math', 'Psychology']",1
+"['Biology & Life Sciences', 'Entrepreneurship', 'Psychology']",1
+"['Entrepreneurship', 'Nanotechnology', 'Psychology']",1
+"['Health & Safety', 'History', 'Psychology']",1
+"['Data Analysis', 'Health & Safety', 'Psychology']",1
+"['Health & Safety', 'Medicine & Healthcare', 'Psychology']",1
+"['Electronics', 'Health & Safety', 'Psychology']",1
+"['Health & Safety', 'Physics and Astronomy', 'Psychology']",1
+"['Governance and Society', 'Health & Safety', 'Psychology']",1
+"['Health & Safety', 'Math', 'Psychology']",1
+"['Biology & Life Sciences', 'Health & Safety', 'Psychology']",1
+"['Health & Safety', 'Nanotechnology', 'Psychology']",1
+"['Electronics', 'History', 'Psychology']",1
+"['Governance and Society', 'History', 'Psychology']",1
+"['History', 'Math', 'Psychology']",1
+"['Biology & Life Sciences', 'History', 'Psychology']",1
+"['History', 'Nanotechnology', 'Psychology']",1
+"['Data Analysis', 'Electronics', 'Psychology']",1
+"['Data Analysis', 'Governance and Society', 'Psychology']",1
+"['Data Analysis', 'Math', 'Psychology']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Psychology']",1
+"['Data Analysis', 'Nanotechnology', 'Psychology']",1
+"['Electronics', 'Medicine & Healthcare', 'Psychology']",1
+"['Governance and Society', 'Medicine & Healthcare', 'Psychology']",1
+"['Math', 'Medicine & Healthcare', 'Psychology']",1
+"['Biology & Life Sciences', 'Medicine & Healthcare', 'Psychology']",1
+"['Medicine & Healthcare', 'Nanotechnology', 'Psychology']",1
+"['Electronics', 'Physics and Astronomy', 'Psychology']",1
+"['Electronics', 'Governance and Society', 'Psychology']",1
+"['Electronics', 'Math', 'Psychology']",1
+"['Biology & Life Sciences', 'Electronics', 'Psychology']",1
+"['Electronics', 'Nanotechnology', 'Psychology']",1
+"['Governance and Society', 'Physics and Astronomy', 'Psychology']",1
+"['Math', 'Physics and Astronomy', 'Psychology']",1
+"['Biology & Life Sciences', 'Physics and Astronomy', 'Psychology']",1
+"['Nanotechnology', 'Physics and Astronomy', 'Psychology']",1
+"['Governance and Society', 'Math', 'Psychology']",1
+"['Biology & Life Sciences', 'Governance and Society', 'Psychology']",1
+"['Governance and Society', 'Nanotechnology', 'Psychology']",1
+"['Biology & Life Sciences', 'Math', 'Psychology']",1
+"['Math', 'Nanotechnology', 'Psychology']",1
+"['Biology & Life Sciences', 'Nanotechnology', 'Psychology']",1
+"['Governance and Society', 'Leadership and Management', 'Medicine & Healthcare']",1
+"['Law', 'Math', 'Medicine & Healthcare']",1
+"['History', 'Law', 'Math']",1
+"['History', 'Law', 'Medicine & Healthcare']",1
+"['Engineering', 'Music and Art', 'Software Development']",1
+"['Environmental Science and Sustainability', 'Governance and Society', 'Health & Safety']",1
+"['Governance and Society', 'Governance and Society', 'Health & Safety']",1
+"['Governance and Society', 'Governance and Society', 'Math']",1
+"['Computer Science', 'Environmental Science and Sustainability', 'Governance and Society']",1
+"['Environmental Science and Sustainability', 'Governance and Society', 'Nanotechnology']",1
+"['Business Strategy', 'Governance and Society', 'Governance and Society']",1
+"['Governance and Society', 'Governance and Society', 'Nanotechnology']",1
+"['Business & Management', 'Computer Science', 'Data Analysis']",1
+"['Electrical Engineering', 'Entrepreneurship', 'Music and Art']",1
+"['Law', 'Medicine & Healthcare', 'Music and Art']",1
+"['Computer Science', 'Energy & Earth Sciences', 'Probability and Statistics']",1
+"['Business & Management', 'Energy & Earth Sciences', 'Probability and Statistics']",1
+"['Electrical Engineering', 'Energy & Earth Sciences', 'Probability and Statistics']",1
+"['Business & Management', 'Computer Science', 'Energy & Earth Sciences']",1
+"['Computer Science', 'Electrical Engineering', 'Energy & Earth Sciences']",1
+"['Business & Management', 'Electrical Engineering', 'Energy & Earth Sciences']",1
+"['Business & Management', 'Computer Science', 'Probability and Statistics']",1
+"['Computer Science', 'Computer Science', 'Probability and Statistics']",1
+"['Computer Science', 'Electrical Engineering', 'Probability and Statistics']",1
+"['Medicine & Healthcare', 'Medicine & Healthcare', 'Probability and Statistics']",1
+"['Business & Management', 'Physics and Astronomy', 'Probability and Statistics']",1
+"['Business & Management', 'Electrical Engineering', 'Probability and Statistics']",1
+"['Electrical Engineering', 'Physics and Astronomy', 'Probability and Statistics']",1
+"['Algorithms', 'Algorithms', 'Biology & Life Sciences']",1
+"['Algorithms', 'Algorithms', 'Economics']",1
+"['Algorithms', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",1
+"['Algorithms', 'Computer Security and Networks', 'Environmental Science and Sustainability']",1
+"['Algorithms', 'Algorithms', 'Entrepreneurship']",1
+"['Algorithms', 'Algorithms', 'Computer Security and Networks']",1
+"['Biology & Life Sciences', 'Economics', 'Environmental Science and Sustainability']",1
+"['Biology & Life Sciences', 'Economics', 'Entrepreneurship']",1
+"['Biology & Life Sciences', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",1
+"['Biology & Life Sciences', 'Computer Security and Networks', 'Environmental Science and Sustainability']",1
+"['Biology & Life Sciences', 'Computer Security and Networks', 'Entrepreneurship']",1
+"['Biology', 'Law', 'Medicine & Healthcare']",1
+"['Chemistry', 'Philosophy', 'Physics and Astronomy']",1
+"['Electronics', 'Math and Logic', 'Medicine & Healthcare']",1
+"['Bioinformatics', 'History', 'Medicine & Healthcare']",1
+"['Ethics', 'History', 'Medicine & Healthcare']",1
+"['Chemistry', 'History', 'Medicine & Healthcare']",1
+"['Bioinformatics', 'Economics', 'History']",1
+"['Economics', 'Ethics', 'History']",1
+"['Chemistry', 'Economics', 'History']",1
+"['Economics', 'History', 'Math']",1
+"['Economics', 'History', 'Nutrition']",1
+"['Bioinformatics', 'Biology', 'History']",1
+"['Bioinformatics', 'Ethics', 'History']",1
+"['Bioinformatics', 'Chemistry', 'History']",1
+"['Bioinformatics', 'History', 'Math']",1
+"['Bioinformatics', 'History', 'Nutrition']",1
+"['Biology', 'Ethics', 'History']",1
+"['Biology', 'Chemistry', 'History']",1
+"['Biology', 'History', 'Nutrition']",1
+"['Chemistry', 'Ethics', 'History']",1
+"['Ethics', 'History', 'Math']",1
+"['Ethics', 'History', 'Nutrition']",1
+"['Chemistry', 'History', 'Math']",1
+"['Chemistry', 'History', 'Nutrition']",1
+"['History', 'Math', 'Nutrition']",1
+"['Machine Learning', 'Music and Art', 'Music and Art']",1
+"['Entrepreneurship', 'Governance and Society', 'Machine Learning']",1
+"['Entrepreneurship', 'Machine Learning', 'Philosophy']",1
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Machine Learning']",1
+"['Business Strategy', 'Entrepreneurship', 'Machine Learning']",1
+"['Business', 'Entrepreneurship', 'Machine Learning']",1
+"['Computer Security and Networks', 'Entrepreneurship', 'Machine Learning']",1
+"['Governance and Society', 'Machine Learning', 'Philosophy']",1
+"['Environmental Science and Sustainability', 'Governance and Society', 'Machine Learning']",1
+"['Business', 'Governance and Society', 'Machine Learning']",1
+"['Computer Security and Networks', 'Governance and Society', 'Machine Learning']",1
+"['Environmental Science and Sustainability', 'Machine Learning', 'Philosophy']",1
+"['Business Strategy', 'Machine Learning', 'Philosophy']",1
+"['Business', 'Machine Learning', 'Philosophy']",1
+"['Computer Security and Networks', 'Machine Learning', 'Philosophy']",1
+"['Business Strategy', 'Environmental Science and Sustainability', 'Machine Learning']",1
+"['Business', 'Environmental Science and Sustainability', 'Machine Learning']",1
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'Machine Learning']",1
+"['Business', 'Business Strategy', 'Machine Learning']",1
+"['Business Strategy', 'Computer Security and Networks', 'Machine Learning']",1
+"['Business', 'Computer Security and Networks', 'Machine Learning']",1
+"['Machine Learning', 'Software Development', 'Software Development']",1
+"['Bioinformatics', 'Economics', 'Medicine & Healthcare']",1
+"['Economics', 'Ethics', 'Medicine & Healthcare']",1
+"['Chemistry', 'Economics', 'Medicine & Healthcare']",1
+"['Economics', 'Math', 'Medicine & Healthcare']",1
+"['Economics', 'Medicine & Healthcare', 'Nutrition']",1
+"['Bioinformatics', 'Biology', 'Medicine & Healthcare']",1
+"['Bioinformatics', 'Ethics', 'Medicine & Healthcare']",1
+"['Bioinformatics', 'Chemistry', 'Medicine & Healthcare']",1
+"['Bioinformatics', 'Math', 'Medicine & Healthcare']",1
+"['Bioinformatics', 'Medicine & Healthcare', 'Nutrition']",1
+"['Business Strategy', 'Medicine & Healthcare', 'Medicine & Healthcare']",1
+"['Business', 'Medicine & Healthcare', 'Medicine & Healthcare']",1
+"['Biology', 'Ethics', 'Medicine & Healthcare']",1
+"['Biology', 'Chemistry', 'Medicine & Healthcare']",1
+"['Biology', 'Math', 'Medicine & Healthcare']",1
+"['Biology', 'Medicine & Healthcare', 'Nutrition']",1
+"['Chemistry', 'Ethics', 'Medicine & Healthcare']",1
+"['Ethics', 'Math', 'Medicine & Healthcare']",1
+"['Ethics', 'Medicine & Healthcare', 'Nutrition']",1
+"['Chemistry', 'Math', 'Medicine & Healthcare']",1
+"['Chemistry', 'Medicine & Healthcare', 'Nutrition']",1
+"['Math', 'Medicine & Healthcare', 'Nutrition']",1
+"['Economics', 'Economics', 'Economics']",1
+"['Bioinformatics', 'Biology', 'Economics']",1
+"['Bioinformatics', 'Economics', 'Ethics']",1
+"['Bioinformatics', 'Chemistry', 'Economics']",1
+"['Bioinformatics', 'Economics', 'Math']",1
+"['Bioinformatics', 'Economics', 'Nutrition']",1
+"['Biology', 'Economics', 'Ethics']",1
+"['Biology', 'Chemistry', 'Economics']",1
+"['Biology', 'Economics', 'Math']",1
+"['Biology', 'Economics', 'Nutrition']",1
+"['Chemistry', 'Economics', 'Ethics']",1
+"['Economics', 'Ethics', 'Math']",1
+"['Economics', 'Ethics', 'Nutrition']",1
+"['Chemistry', 'Economics', 'Math']",1
+"['Chemistry', 'Economics', 'Nutrition']",1
+"['Economics', 'Math', 'Nutrition']",1
+"['Business & Management', 'Business Strategy', 'Music and Art']",1
+"['Business & Management', 'Medicine & Healthcare', 'Music and Art']",1
+"['Business & Management', 'Electrical Engineering', 'Music and Art']",1
+"['Music and Art', 'Music and Art', 'Philosophy']",1
+"['Environmental Science and Sustainability', 'Music and Art', 'Music and Art']",1
+"['Business Strategy', 'Electrical Engineering', 'Music and Art']",1
+"['Business', 'Music and Art', 'Music and Art']",1
+"['Computer Security and Networks', 'Music and Art', 'Music and Art']",1
+"['Entrepreneurship', 'Health & Safety', 'History']",1
+"['Data Analysis', 'Entrepreneurship', 'Health & Safety']",1
+"['Entrepreneurship', 'Health & Safety', 'Medicine & Healthcare']",1
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Health & Safety']",1
+"['Business Strategy', 'Entrepreneurship', 'Health & Safety']",1
+"['Electronics', 'Entrepreneurship', 'Health & Safety']",1
+"['Entrepreneurship', 'Health & Safety', 'Physics and Astronomy']",1
+"['Entrepreneurship', 'Governance and Society', 'Health & Safety']",1
+"['Entrepreneurship', 'Health & Safety', 'Math']",1
+"['Biology & Life Sciences', 'Entrepreneurship', 'Health & Safety']",1
+"['Entrepreneurship', 'Health & Safety', 'Nanotechnology']",1
+"['Data Analysis', 'Entrepreneurship', 'History']",1
+"['Electronics', 'Entrepreneurship', 'History']",1
+"['Entrepreneurship', 'History', 'Physics and Astronomy']",1
+"['Entrepreneurship', 'History', 'Math']",1
+"['Entrepreneurship', 'History', 'Nanotechnology']",1
+"['Data Analysis', 'Entrepreneurship', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Entrepreneurship', 'Environmental Science and Sustainability']",1
+"['Data Analysis', 'Electronics', 'Entrepreneurship']",1
+"['Data Analysis', 'Entrepreneurship', 'Physics and Astronomy']",1
+"['Data Analysis', 'Entrepreneurship', 'Governance and Society']",1
+"['Data Analysis', 'Entrepreneurship', 'Math']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Entrepreneurship']",1
+"['Data Analysis', 'Entrepreneurship', 'Nanotechnology']",1
+"['Entrepreneurship', 'Governance and Society', 'Philosophy']",1
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Governance and Society']",1
+"['Business', 'Entrepreneurship', 'Governance and Society']",1
+"['Entrepreneurship', 'History', 'Law']",1
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Philosophy']",1
+"['Business Strategy', 'Entrepreneurship', 'Philosophy']",1
+"['Business', 'Entrepreneurship', 'Philosophy']",1
+"['Entrepreneurship', 'Philosophy', 'Physics and Astronomy']",1
+"['Computer Security and Networks', 'Entrepreneurship', 'Philosophy']",1
+"['Electronics', 'Entrepreneurship', 'Medicine & Healthcare']",1
+"['Electrical Engineering', 'Entrepreneurship', 'Medicine & Healthcare']",1
+"['Entrepreneurship', 'Medicine & Healthcare', 'Physics and Astronomy']",1
+"['Entrepreneurship', 'Math', 'Medicine & Healthcare']",1
+"['Entrepreneurship', 'Medicine & Healthcare', 'Nanotechnology']",1
+"['Business Strategy', 'Entrepreneurship', 'Environmental Science and Sustainability']",1
+"['Business', 'Entrepreneurship', 'Environmental Science and Sustainability']",1
+"['Entrepreneurship', 'Environmental Science and Sustainability', 'Nanotechnology']",1
+"['Computer Security and Networks', 'Entrepreneurship', 'Environmental Science and Sustainability']",1
+"['Business', 'Business Strategy', 'Entrepreneurship']",1
+"['Business Strategy', 'Computer Security and Networks', 'Entrepreneurship']",1
+"['Electronics', 'Entrepreneurship', 'Physics and Astronomy']",1
+"['Electronics', 'Entrepreneurship', 'Governance and Society']",1
+"['Electronics', 'Entrepreneurship', 'Math']",1
+"['Biology & Life Sciences', 'Electronics', 'Entrepreneurship']",1
+"['Electronics', 'Entrepreneurship', 'Nanotechnology']",1
+"['Business', 'Computer Security and Networks', 'Entrepreneurship']",1
+"['Entrepreneurship', 'Governance and Society', 'Physics and Astronomy']",1
+"['Entrepreneurship', 'Math', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Entrepreneurship', 'Physics and Astronomy']",1
+"['Entrepreneurship', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Entrepreneurship', 'Governance and Society', 'Math']",1
+"['Entrepreneurship', 'Governance and Society', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Entrepreneurship', 'Math']",1
+"['Entrepreneurship', 'Math', 'Nanotechnology']",1
+"['Entrepreneurship', 'Software Development', 'Software Development']",1
+"['Biology & Life Sciences', 'Entrepreneurship', 'Nanotechnology']",1
+"['Data Analysis', 'Health & Safety', 'History']",1
+"['Electronics', 'Health & Safety', 'History']",1
+"['Health & Safety', 'History', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Health & Safety', 'History']",1
+"['Data Analysis', 'Electronics', 'Health & Safety']",1
+"['Data Analysis', 'Health & Safety', 'Physics and Astronomy']",1
+"['Data Analysis', 'Governance and Society', 'Health & Safety']",1
+"['Data Analysis', 'Health & Safety', 'Math']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Health & Safety']",1
+"['Data Analysis', 'Health & Safety', 'Nanotechnology']",1
+"['Business Strategy', 'Health & Safety', 'Math']",1
+"['Electronics', 'Health & Safety', 'Medicine & Healthcare']",1
+"['Health & Safety', 'Medicine & Healthcare', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Health & Safety', 'Medicine & Healthcare']",1
+"['Business Strategy', 'Environmental Science and Sustainability', 'Health & Safety']",1
+"['Computer Science', 'Environmental Science and Sustainability', 'Health & Safety']",1
+"['Environmental Science and Sustainability', 'Health & Safety', 'Nanotechnology']",1
+"['Electronics', 'Health & Safety', 'Physics and Astronomy']",1
+"['Electronics', 'Governance and Society', 'Health & Safety']",1
+"['Electronics', 'Health & Safety', 'Math']",1
+"['Biology & Life Sciences', 'Electronics', 'Health & Safety']",1
+"['Electronics', 'Health & Safety', 'Nanotechnology']",1
+"['Governance and Society', 'Health & Safety', 'Physics and Astronomy']",1
+"['Health & Safety', 'Math', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Health & Safety', 'Physics and Astronomy']",1
+"['Health & Safety', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Governance and Society', 'Health & Safety']",1
+"['Biology & Life Sciences', 'Health & Safety', 'Math']",1
+"['Health & Safety', 'Math', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Health & Safety', 'Nanotechnology']",1
+"['Economics', 'Education', 'Sociology']",1
+"['Computer Science', 'Education', 'Sociology']",1
+"['Education', 'Medicine & Healthcare', 'Sociology']",1
+"['Education', 'Electrical Engineering', 'Sociology']",1
+"['Computer Science', 'Economics', 'Sociology']",1
+"['Economics', 'Medicine & Healthcare', 'Sociology']",1
+"['Economics', 'Electrical Engineering', 'Sociology']",1
+"['Computer Science', 'Medicine & Healthcare', 'Sociology']",1
+"['Computer Science', 'Electrical Engineering', 'Sociology']",1
+"['Electrical Engineering', 'Medicine & Healthcare', 'Sociology']",1
+"['Communication', 'Computer Science', 'Psychology']",1
+"['Communication', 'Medicine & Healthcare', 'Psychology']",1
+"['Communication', 'History', 'Psychology']",1
+"['Communication', 'Computer Science', 'Medicine & Healthcare']",1
+"['Communication', 'Computer Science', 'History']",1
+"['Business & Management', 'Computer Science', 'Electrical Engineering']",1
+"['Computer Science', 'Computer Science', 'Physics and Astronomy']",1
+"['Bioinformatics', 'Biology', 'Ethics']",1
+"['Bioinformatics', 'Biology', 'Chemistry']",1
+"['Bioinformatics', 'Biology', 'Math']",1
+"['Bioinformatics', 'Chemistry', 'Ethics']",1
+"['Bioinformatics', 'Ethics', 'Math']",1
+"['Bioinformatics', 'Ethics', 'Nutrition']",1
+"['Bioinformatics', 'Computer Science', 'Machine Learning']",1
+"['Bioinformatics', 'Chemistry', 'Math']",1
+"['Bioinformatics', 'Chemistry', 'Nutrition']",1
+"['Bioinformatics', 'Math', 'Nutrition']",1
+"['Communication', 'History', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Electronics', 'History']",1
+"['Data Analysis', 'History', 'Math']",1
+"['Biology & Life Sciences', 'Data Analysis', 'History']",1
+"['Data Analysis', 'History', 'Nanotechnology']",1
+"['Electronics', 'History', 'Medicine & Healthcare']",1
+"['Electronics', 'History', 'Physics and Astronomy']",1
+"['Electronics', 'Governance and Society', 'History']",1
+"['Electronics', 'History', 'Math']",1
+"['Biology & Life Sciences', 'Electronics', 'History']",1
+"['Electronics', 'History', 'Nanotechnology']",1
+"['History', 'Math', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'History', 'Physics and Astronomy']",1
+"['History', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'History', 'Math']",1
+"['History', 'Math', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'History', 'Nanotechnology']",1
+"['History', 'History', 'History']",1
+"['Data Analysis', 'Education', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Education', 'Environmental Science and Sustainability']",1
+"['Data Analysis', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Electronics', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Governance and Society', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Math', 'Medicine & Healthcare']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Medicine & Healthcare']",1
+"['Data Analysis', 'Medicine & Healthcare', 'Nanotechnology']",1
+"['Data Analysis', 'Environmental Science and Sustainability', 'Nanotechnology']",1
+"['Data Analysis', 'Electronics', 'Physics and Astronomy']",1
+"['Data Analysis', 'Electronics', 'Math']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Electronics']",1
+"['Data Analysis', 'Electronics', 'Nanotechnology']",1
+"['Data Analysis', 'Governance and Society', 'Physics and Astronomy']",1
+"['Data Analysis', 'Math', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Physics and Astronomy']",1
+"['Data Analysis', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Data Analysis', 'Governance and Society', 'Math']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Governance and Society']",1
+"['Data Analysis', 'Governance and Society', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Math']",1
+"['Data Analysis', 'Math', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Data Analysis', 'Nanotechnology']",1
+"['Business', 'Governance and Society', 'Philosophy']",1
+"['Computer Security and Networks', 'Governance and Society', 'Philosophy']",1
+"['Business', 'Environmental Science and Sustainability', 'Governance and Society']",1
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'Governance and Society']",1
+"['Business', 'Business Strategy', 'Governance and Society']",1
+"['Business', 'Computer Security and Networks', 'Governance and Society']",1
+"['Governance and Society', 'Software Development', 'Software Development']",1
+"['Business & Management', 'Engineering', 'Physics']",1
+"['Business & Management', 'Electrical Engineering', 'Engineering']",1
+"['Electrical Engineering', 'Engineering', 'Physics']",1
+"['Business & Management', 'Electrical Engineering', 'Physics']",1
+"['Business & Management', 'Electrical Engineering', 'Medicine & Healthcare']",1
+"['History', 'History', 'Physics and Astronomy']",1
+"['Education', 'Environmental Science and Sustainability', 'Medicine & Healthcare']",1
+"['Computer Science', 'Economics', 'Education']",1
+"['Economics', 'Education', 'Medicine & Healthcare']",1
+"['Economics', 'Education', 'Electrical Engineering']",1
+"['Business', 'Environmental Science and Sustainability', 'Philosophy']",1
+"['Computer Security and Networks', 'Environmental Science and Sustainability', 'Philosophy']",1
+"['Business', 'Business Strategy', 'Philosophy']",1
+"['Business Strategy', 'Computer Security and Networks', 'Philosophy']",1
+"['Business', 'Computer Security and Networks', 'Philosophy']",1
+"['Philosophy', 'Software Development', 'Software Development']",1
+"['Electronics', 'Medicine & Healthcare', 'Physics and Astronomy']",1
+"['Electronics', 'Governance and Society', 'Medicine & Healthcare']",1
+"['Electronics', 'Math', 'Medicine & Healthcare']",1
+"['Biology & Life Sciences', 'Electronics', 'Medicine & Healthcare']",1
+"['Electronics', 'Medicine & Healthcare', 'Nanotechnology']",1
+"['Math', 'Medicine & Healthcare', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Medicine & Healthcare', 'Physics and Astronomy']",1
+"['Medicine & Healthcare', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Math', 'Medicine & Healthcare']",1
+"['Math', 'Medicine & Healthcare', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Medicine & Healthcare', 'Nanotechnology']",1
+"['Business', 'Business Strategy', 'Environmental Science and Sustainability']",1
+"['Business Strategy', 'Computer Security and Networks', 'Environmental Science and Sustainability']",1
+"['Business', 'Computer Security and Networks', 'Environmental Science and Sustainability']",1
+"['Computer Science', 'Environmental Science and Sustainability', 'Nanotechnology']",1
+"['Environmental Science and Sustainability', 'Software Development', 'Software Development']",1
+"['Electrical Engineering', 'Learning English', 'Physics and Astronomy']",1
+"['Computer Science', 'Education', 'Learning English']",1
+"['Computer Science', 'Electrical Engineering', 'Learning English']",1
+"['Business', 'Business Strategy', 'Computer Security and Networks']",1
+"['Business Strategy', 'Computer Science', 'Physics and Astronomy']",1
+"['Business Strategy', 'Software Development', 'Software Development']",1
+"['Computer Science', 'Economics', 'Electrical Engineering']",1
+"['Economics', 'Electrical Engineering', 'Medicine & Healthcare']",1
+"['Electronics', 'Governance and Society', 'Physics and Astronomy']",1
+"['Electronics', 'Math', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Electronics', 'Physics and Astronomy']",1
+"['Electronics', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Electronics', 'Governance and Society', 'Math']",1
+"['Biology & Life Sciences', 'Electronics', 'Governance and Society']",1
+"['Electronics', 'Governance and Society', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Electronics', 'Math']",1
+"['Electronics', 'Math', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Electronics', 'Nanotechnology']",1
+"['Business', 'Software Development', 'Software Development']",1
+"['Biology', 'Chemistry', 'Ethics']",1
+"['Biology', 'Ethics', 'Math']",1
+"['Biology', 'Ethics', 'Nutrition']",1
+"['Biology', 'Chemistry', 'Math']",1
+"['Biology', 'Chemistry', 'Nutrition']",1
+"['Biology', 'Math', 'Nutrition']",1
+"['Governance and Society', 'Math', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Governance and Society', 'Physics and Astronomy']",1
+"['Governance and Society', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Math', 'Physics and Astronomy']",1
+"['Math', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Biology & Life Sciences', 'Nanotechnology', 'Physics and Astronomy']",1
+"['Chemistry', 'Ethics', 'Math']",1
+"['Chemistry', 'Ethics', 'Nutrition']",1
+"['Ethics', 'Math', 'Nutrition']",1
+"['Biology & Life Sciences', 'Governance and Society', 'Math']",1
+"['Governance and Society', 'Math', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Governance and Society', 'Nanotechnology']",1
+"['Biology & Life Sciences', 'Math', 'Nanotechnology']",1
+"['Chemistry', 'Math', 'Nutrition']",1
+"['Computer Security and Networks', 'Software Development', 'Software Development']",1

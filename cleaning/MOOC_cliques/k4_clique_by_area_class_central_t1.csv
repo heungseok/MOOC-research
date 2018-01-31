@@ -1,0 +1,14 @@
+cliq,freq
+"['Arts and Humanities', 'Business', 'Computer Science', 'Social Sciences']",4
+"['Arts and Humanities', 'Computer Science', 'Computer Science', 'Social Sciences']",2
+"['Arts and Humanities', 'Computer Science', 'Social Sciences', 'Social Sciences']",2
+"['Business', 'Computer Science', 'Computer Science', 'Social Sciences']",2
+"['Business', 'Computer Science', 'Social Sciences', 'Social Sciences']",2
+"['Computer Science', 'Data Science', 'Physical Science and Engineering', 'Social Sciences']",1
+"['Arts and Humanities', 'Data Science', 'Physical Science and Engineering', 'Social Sciences']",1
+"['Arts and Humanities', 'Computer Science', 'Physical Science and Engineering', 'Social Sciences']",1
+"['Arts and Humanities', 'Computer Science', 'Data Science', 'Physical Science and Engineering']",1
+"['Arts and Humanities', 'Business', 'Social Sciences', 'Social Sciences']",1
+"['Arts and Humanities', 'Business', 'Computer Science', 'Computer Science']",1
+"['Computer Science', 'Computer Science', 'Social Sciences', 'Social Sciences']",1
+"['Arts and Humanities', 'Computer Science', 'Data Science', 'Social Sciences']",1

@@ -1,0 +1,52 @@
+변수 description - file name: CourseXTdata(directed_network)_forSTATA.csv
+
+time invariant
+1. index: 인덱스 (Integer)
+2. course_id: 강의 id (String)
+3. review_platform: 리뷰커뮤니티 웹싸이트 이름; class-central.com/coursetalk.com (String)
+4. title: 강의 제목 (String) - unique하지 않음.
+5. provider: MOOC 강의 플랫폼; Coursera.org/edX.org (String)
+6. school: 강의를 제공하는 학교 이름 (String)
+7. subject: 강의 과목명 (String)
+8. price: certification 가격 (Integer)
+9. level: 강의 난이도; Introductory/Intermediate/Advanced (String)
+10. course_length: 강의의 길이 - week단위. (double)
+11. effort_hours: 강의에서 요구하는 주당 학습시간. (double)
+12. published_time: 강의가 published된 날짜이며, 해당하는 time window로 태깅 (factor)
+
+time variant
+13. time: 4개의 time구간; 1(7.2013.~6.2014.)/ 2(7.2014.~6.2015.) / 3(7.2015.7~6.2016) / 4(7.2016.~6.2017.)  (factor)
+14. session_open: 해당 time에 session open 유무 flag (TRUE/FALSE) 
+15. t.low: 해당 time에 1~2점 별점 비율 (double)
+16. t.mid: 해당 time에 3점의 별점 비율 (double)
+17. t.high: 해당 time에 4~5점의 별점 비율 (double)
+18. t.helpfulness: 해당 time에 달려진 리뷰에 helpful review (좋아요)를 받은 수의 비율 => 유용한 리뷰들의 score를 의미. (# helpfulness score/리뷰갯수) (double)
+19. t.review_length: 해당 time에 달려진 리뷰의 문자수의 평균 (# 문자 수/리뷰갯수) (double)
+20. t.reviewCount: 해당 time에 리뷰 갯수 (integer)
+21. t.reviewRating: 해당 time에 평균 평점 (integer)
+22. t.performance: 해당 time에 강의의 performance score (= t.reviewCount * t.reviewRating) (double)
+22. t.indegree: 해당 time에 강의의 indegree (integer)
+23. t.outdegree: 해당 time에 강의의 outdegree (integer)
+24. t.degree: t.indegree + t.outdegree (integer)
+25. t.between: 해당 time에 강의의 betweenness (double)
+26. t.eigen: 해당 time에 강의의 eigenvector centrality (double)
+27. t.close: 해당 time에 강의의 closeness (double)
+28. t.CC: 해당 time에 강의의 clustering coefficient (double), NA인 값들은(isolates) 0으로 처리. 
+
+
+
+
+Regression model R-code (fixed effect)
+
+1. Traditional WOM effect model
+	formular: plm_formul_wom_normal <- lead(t.performance, 1) ~ t.performance + t.low + t.mid + t.high + t.helpfulness + t.review_length + factor(time)
+	model: plm_fixed_wom_normal <- plm(plm_formul_wom_normal, data=xt_data_stata, index=c("course_id", "time"), model="within", effect = "individual")
+
+2. Network effect model
+	formula: plm_formul_network <- lead(t.performance, 1) ~ t.performance + t.degree + t.between + t.eigen + t.CC + factor(time)
+	model: plm_fixed_network <- plm(plm_formul_network, data=xt_data_stata, index=c("course_id", "time"), model="within", effect = "individual")
+
+2. Integreated WOM effect model
+	formula: plm_formul_wom_mixed <- lead(t.performance, 1) ~ t.performance + t.low + t.mid + t.high + t.helpfulness + t.review_length + t.degree + 
+		 t.between + t.eigen + factor(time)
+	model: plm_fixed_wom_mixed <- plm(plm_formul_wom_mixed, data=xt_data_stata, index=c("course_id", "time"), model="within", effect = "individual")

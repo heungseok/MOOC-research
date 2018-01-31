@@ -1,0 +1,129 @@
+cliq,freq
+"['Computer Science', 'Life Sciences', 'Social Sciences']",248
+"['Arts and Humanities', 'Computer Science', 'Life Sciences']",247
+"['Computer Science', 'Life Sciences', 'Life Sciences']",239
+"['Computer Science', 'Computer Science', 'Life Sciences']",222
+"['Arts and Humanities', 'Life Sciences', 'Social Sciences']",194
+"['Arts and Humanities', 'Computer Science', 'Social Sciences']",168
+"['Computer Science', 'Life Sciences', 'Math and Logic']",164
+"['Arts and Humanities', 'Life Sciences', 'Life Sciences']",143
+"['Arts and Humanities', 'Life Sciences', 'Physical Science and Engineering']",131
+"['Life Sciences', 'Life Sciences', 'Social Sciences']",129
+"['Business', 'Computer Science', 'Life Sciences']",113
+"['Arts and Humanities', 'Life Sciences', 'Math and Logic']",109
+"['Computer Science', 'Computer Science', 'Social Sciences']",107
+"['Life Sciences', 'Math and Logic', 'Social Sciences']",102
+"['Arts and Humanities', 'Arts and Humanities', 'Life Sciences']",100
+"['Arts and Humanities', 'Business', 'Social Sciences']",100
+"['Arts and Humanities', 'Business', 'Life Sciences']",98
+"['Arts and Humanities', 'Business', 'Computer Science']",98
+"['Arts and Humanities', 'Computer Science', 'Math and Logic']",95
+"['Arts and Humanities', 'Computer Science', 'Physical Science and Engineering']",92
+"['Computer Science', 'Math and Logic', 'Social Sciences']",88
+"['Arts and Humanities', 'Computer Science', 'Computer Science']",88
+"['Arts and Humanities', 'Arts and Humanities', 'Social Sciences']",86
+"['Life Sciences', 'Life Sciences', 'Math and Logic']",83
+"['Business', 'Computer Science', 'Social Sciences']",81
+"['Arts and Humanities', 'Arts and Humanities', 'Computer Science']",79
+"['Business', 'Life Sciences', 'Social Sciences']",78
+"['Arts and Humanities', 'Physical Science and Engineering', 'Social Sciences']",78
+"['Computer Science', 'Life Sciences', 'Physical Science and Engineering']",76
+"['Life Sciences', 'Life Sciences', 'Life Sciences']",76
+"['Arts and Humanities', 'Arts and Humanities', 'Physical Science and Engineering']",74
+"['Computer Science', 'Computer Science', 'Math and Logic']",71
+"['Arts and Humanities', 'Math and Logic', 'Social Sciences']",70
+"['Arts and Humanities', 'Business', 'Physical Science and Engineering']",67
+"['Life Sciences', 'Physical Science and Engineering', 'Social Sciences']",66
+"['Arts and Humanities', 'Arts and Humanities', 'Business']",65
+"['Arts and Humanities', 'Data Science', 'Life Sciences']",62
+"['Computer Science', 'Computer Science', 'Computer Science']",59
+"['Arts and Humanities', 'Social Sciences', 'Social Sciences']",55
+"['Arts and Humanities', 'Computer Science', 'Data Science']",54
+"['Business', 'Life Sciences', 'Life Sciences']",53
+"['Arts and Humanities', 'Math and Logic', 'Physical Science and Engineering']",51
+"['Arts and Humanities', 'Data Science', 'Social Sciences']",51
+"['Computer Science', 'Social Sciences', 'Social Sciences']",51
+"['Computer Science', 'Data Science', 'Math and Logic']",50
+"['Life Sciences', 'Life Sciences', 'Physical Science and Engineering']",50
+"['Computer Science', 'Data Science', 'Life Sciences']",49
+"['Life Sciences', 'Social Sciences', 'Social Sciences']",48
+"['Business', 'Computer Science', 'Computer Science']",47
+"['Arts and Humanities', 'Data Science', 'Physical Science and Engineering']",46
+"['Computer Science', 'Physical Science and Engineering', 'Social Sciences']",46
+"['Arts and Humanities', 'Physical Science and Engineering', 'Physical Science and Engineering']",41
+"['Arts and Humanities', 'Business', 'Math and Logic']",40
+"['Data Science', 'Life Sciences', 'Social Sciences']",40
+"['Business', 'Life Sciences', 'Math and Logic']",40
+"['Computer Science', 'Data Science', 'Physical Science and Engineering']",40
+"['Computer Science', 'Math and Logic', 'Physical Science and Engineering']",39
+"['Data Science', 'Life Sciences', 'Math and Logic']",39
+"['Life Sciences', 'Math and Logic', 'Physical Science and Engineering']",39
+"['Business', 'Life Sciences', 'Physical Science and Engineering']",38
+"['Data Science', 'Life Sciences', 'Physical Science and Engineering']",37
+"['Business', 'Computer Science', 'Math and Logic']",37
+"['Computer Science', 'Data Science', 'Social Sciences']",37
+"['Business', 'Computer Science', 'Physical Science and Engineering']",36
+"['Arts and Humanities', 'Data Science', 'Math and Logic']",34
+"['Arts and Humanities', 'Arts and Humanities', 'Math and Logic']",34
+"['Arts and Humanities', 'Business', 'Data Science']",33
+"['Data Science', 'Physical Science and Engineering', 'Social Sciences']",31
+"['Data Science', 'Math and Logic', 'Physical Science and Engineering']",29
+"['Life Sciences', 'Physical Science and Engineering', 'Physical Science and Engineering']",28
+"['Business', 'Math and Logic', 'Social Sciences']",28
+"['Data Science', 'Math and Logic', 'Social Sciences']",27
+"['Arts and Humanities', 'Arts and Humanities', 'Data Science']",27
+"['Business', 'Physical Science and Engineering', 'Social Sciences']",26
+"['Arts and Humanities', 'Arts and Humanities', 'Arts and Humanities']",26
+"['Business', 'Physical Science and Engineering', 'Physical Science and Engineering']",25
+"['Business', 'Social Sciences', 'Social Sciences']",25
+"['Math and Logic', 'Physical Science and Engineering', 'Social Sciences']",24
+"['Computer Science', 'Physical Science and Engineering', 'Physical Science and Engineering']",23
+"['Arts and Humanities', 'Business', 'Business']",22
+"['Life Sciences', 'Math and Logic', 'Math and Logic']",21
+"['Business', 'Computer Science', 'Data Science']",21
+"['Business', 'Math and Logic', 'Physical Science and Engineering']",21
+"['Data Science', 'Life Sciences', 'Life Sciences']",20
+"['Business', 'Data Science', 'Physical Science and Engineering']",20
+"['Computer Science', 'Math and Logic', 'Math and Logic']",19
+"['Business', 'Data Science', 'Social Sciences']",19
+"['Computer Science', 'Computer Science', 'Data Science']",18
+"['Business', 'Data Science', 'Life Sciences']",18
+"['Computer Science', 'Data Science', 'Data Science']",16
+"['Computer Science', 'Computer Science', 'Physical Science and Engineering']",16
+"['Math and Logic', 'Social Sciences', 'Social Sciences']",16
+"['Data Science', 'Data Science', 'Math and Logic']",15
+"['Business', 'Data Science', 'Math and Logic']",15
+"['Business', 'Business', 'Life Sciences']",15
+"['Physical Science and Engineering', 'Social Sciences', 'Social Sciences']",15
+"['Data Science', 'Math and Logic', 'Math and Logic']",13
+"['Math and Logic', 'Math and Logic', 'Social Sciences']",13
+"['Business', 'Business', 'Computer Science']",13
+"['Business', 'Business', 'Physical Science and Engineering']",13
+"['Physical Science and Engineering', 'Physical Science and Engineering', 'Social Sciences']",13
+"['Business', 'Business', 'Social Sciences']",13
+"['Arts and Humanities', 'Data Science', 'Data Science']",11
+"['Data Science', 'Data Science', 'Life Sciences']",11
+"['Data Science', 'Data Science', 'Physical Science and Engineering']",11
+"['Math and Logic', 'Physical Science and Engineering', 'Physical Science and Engineering']",10
+"['Arts and Humanities', 'Math and Logic', 'Math and Logic']",9
+"['Data Science', 'Physical Science and Engineering', 'Physical Science and Engineering']",9
+"['Business', 'Business', 'Math and Logic']",8
+"['Data Science', 'Data Science', 'Social Sciences']",8
+"['Data Science', 'Social Sciences', 'Social Sciences']",8
+"['Physical Science and Engineering', 'Physical Science and Engineering', 'Physical Science and Engineering']",7
+"['Math and Logic', 'Math and Logic', 'Physical Science and Engineering']",6
+"['Business', 'Business', 'Data Science']",6
+"['Social Sciences', 'Social Sciences', 'Social Sciences']",6
+"['Arts and Humanities', 'Language Learning', 'Physical Science and Engineering']",4
+"['Language Learning', 'Physical Science and Engineering', 'Social Sciences']",3
+"['Business', 'Data Science', 'Data Science']",3
+"['Data Science', 'Data Science', 'Data Science']",2
+"['Business', 'Business', 'Business']",2
+"['Business', 'Math and Logic', 'Math and Logic']",2
+"['Arts and Humanities', 'Language Learning', 'Social Sciences']",2
+"['Arts and Humanities', 'Computer Science', 'Language Learning']",2
+"['Math and Logic', 'Math and Logic', 'Math and Logic']",1
+"['Arts and Humanities', 'Arts and Humanities', 'Language Learning']",1
+"['Language Learning', 'Physical Science and Engineering', 'Physical Science and Engineering']",1
+"['Computer Science', 'Language Learning', 'Social Sciences']",1
+"['Computer Science', 'Language Learning', 'Physical Science and Engineering']",1
