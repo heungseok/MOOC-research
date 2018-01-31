@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/eclipse/workspace/MOOC/EdxCrawler/library/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/workspace/MOOC/EdxCrawler/library/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/workspace/MOOC/EdxCrawler/library/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/workspace/MOOC/EdxCrawler/library/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
